@@ -1,0 +1,3628 @@
+[
+    {
+        "Katagori Adi": "Aci",
+        "Birimler": [
+            {
+                "Name": "Daire",
+                "Coefficient": 0.00277777777777778,
+                "Abbreviation": "",
+                "Info": "Daire, cemberin icinde kalan alana verilen isimdir. Burada alandan kasit, bir cemberin cevreledigi noktalarin kumesi olmasidir. Bir dairenin acik daire ya da kapali daire olmasini dairenin sinirlarini olusturan cemberin daireye dahil olup olmadigi belirler; cember daireye dahilse kapali daire, degilse acik dairedir.",
+                "Web": "http://en.wikipedia.org/wiki/Circle"
+            },
+            {
+                "Name": "Dakika",
+                "Coefficient": 60,
+                "Abbreviation": "'",
+                "Info": "Dakika, 1 saatin 1/60'ina ve 60 saniyeye esit olan zaman birimidir.Ayni zamanda 1 derecenin 1/60'ini da simgeler. Kisaca dk'tir. Acisal olarak \"'\" isareti ile gosterilir. Bir zaman dilimidir.",
+                "Web": "http://en.wikipedia.org/wiki/Minute"
+            },
+            {
+                "Name": "Derece",
+                "Coefficient": 1,
+                "Abbreviation": "deg, °",
+                "Info": "Bir cemberin 1/360'ina bir derecelik yay, bu yayi goren merkez aciya 1 derecelik aci denir.1° seklinde gosterilir.Derecenin 1/60'ina Dakika,dakinanin 1/60'ina da saniye denir.Sirayla 1' ve 1\" seklinde gosterilir.° =60'= 3600\"",
+                "Web": "http://en.wikipedia.org/wiki/Degree_(angle)"
+            },
+            {
+                "Name": "Devir",
+                "Coefficient": 0.00277777777777778,
+                "Abbreviation": "rev",
+                "Info": "",
+                "Web": "http://en.wikipedia.org/wiki/Turn_(geometry)"
+            },
+            {
+                "Name": "Dogru Aci",
+                "Coefficient": 0.0111111111111111,
+                "Abbreviation": "",
+                "Info": "Ayni dogrultuda ve O noktasina gore farkli yonlerde bulunan iki isinin meydana getirdigi aci. olcusu 180° veya 200g veya p raddir.",
+                "Web": "http://en.wikipedia.org/wiki/Right_angle"
+            },
+            {
+                "Name": "Gon",
+                "Coefficient": 1.11111111111111,
+                "Abbreviation": "g",
+                "Info": "",
+                "Web": "http://en.wikipedia.org/wiki/Grad_(angle)"
+            },
+            {
+                "Name": "Grad",
+                "Coefficient": 1.11111111111111,
+                "Abbreviation": "g",
+                "Info": "Bir cemberin 1/400'une bir gradlik yay ve bu yayi goren merkez aciya bir gradlik aci denir. 1g seklinde gosterilir. Grad'in 1/10'una desigrad, desigrad'in 1/10'una santigrad, santigrad'in 1/10'una da miligrad denir.",
+                "Web": "http://en.wikipedia.org/wiki/Grad_(angle)"
+            },
+            {
+                "Name": "Kerte",
+                "Coefficient": 0.0888888888888889,
+                "Abbreviation": "kerte",
+                "Info": "Kerte, 360 derecenin 1/32'sine esit acidir. Denizcilikte kullanilir. Bunu sembolize etmek icin bahriye subay uniformalarinin ceket kollarindaki sirmalar 32 dikisle dikilmisti",
+                "Web": "http://en.wikipedia.org/wiki/Rhumb"
+            },
+            {
+                "Name": "Mil",
+                "Coefficient": 17.7777777777778,
+                "Abbreviation": "mile",
+                "Info": "",
+                "Web": "http://en.wikipedia.org/wiki/Mile"
+            },
+            {
+                "Name": "Pusula Noktasi",
+                "Coefficient": 0.0888888888888889,
+                "Abbreviation": "",
+                "Info": "",
+                "Web": "http://en.wikipedia.org/wiki/Compass_point"
+            },
+            {
+                "Name": "Quadrant",
+                "Coefficient": 0.0111111111111111,
+                "Abbreviation": "",
+                "Info": "ceyrek daire",
+                "Web": "http://en.wikipedia.org/wiki/Circular_sector"
+            },
+            {
+                "Name": "Radyan",
+                "Coefficient": 0.0174532925239284,
+                "Abbreviation": "rad",
+                "Info": "Bir cemberin, yaricap uzunlugundaki yayina bir radyanlik yay ve bu yayi goren merkez aciya bir radyanlik aci denir. Radyan'in askatlari yoktur.",
+                "Web": "http://en.wikipedia.org/wiki/Radian"
+            },
+            {
+                "Name": "Rubu",
+                "Coefficient": 0.0111111111111111,
+                "Abbreviation": "",
+                "Info": "Osmanli Imparatorlugu'nda kullanilagelen,olcu ve tartida devrime kadar Turkiye Cumhuriyeti'nde de kullanilan aci olcu birimidir.ceyrek(1/4) daireye denk gelir",
+                "Web": ""
+            },
+            {
+                "Name": "Saniye",
+                "Coefficient": 3600,
+                "Abbreviation": "\"",
+                "Info": "Saniye bir derecenin uc bin alti yuzde birine denk gelen aci birimidir.",
+                "Web": "http://en.wikipedia.org/wiki/Degree_(angle)"
+            },
+            {
+                "Name": "Sextant",
+                "Coefficient": 0.0166666666666667,
+                "Abbreviation": "",
+                "Info": "Herhangi iki madde arasindaki aciyi veya gok cisimlerinin gorunen ufuktan olan yuksekliklerini olcmekte kullanilan bir alettir. Yuksekligin okundugu acisal bolunmus yay, bir dairenin altida biri oldugundan, alete altida bir anlamina gelen sextant denmistir.",
+                "Web": "http://en.wikipedia.org/wiki/Sextant"
+            },
+            {
+                "Name": "Sign",
+                "Coefficient": 0.0333333333333333,
+                "Abbreviation": "",
+                "Info": "",
+                "Web": ""
+            }
+        ]
+    },
+    {
+        "Katagori Adi": "Agirlik ve Kutle",
+        "Birimler": [
+            {
+                "Name": "Atomik Kutle Birimi",
+                "Coefficient": 6.02213665167516e+26,
+                "Abbreviation": "amu",
+                "Info": "Atomik kutle birimi, (sembol akb) ya da dalton (Da), cok ufak kutleli maddelerin, ozellikle atom ve molekullerin kutlelerini hesaplamak icin kullanilan olcu birimidir. Bir karbon12 (C12) atomunun kutlesinin tam olarak 1/12'sine esittir. Bunun sebebi, karbonun en kararli ve en kolay bulunabilen elementlerden biri olmasidir.",
+                "Web" : "http://en.wikipedia.org/wiki/Atomic_mass_unit"
+            },
+            {
+                "Name": "Arpa",
+                "Coefficient": 80000,
+                "Abbreviation": "",
+                "Info": "Osmanli Imparatorlugu'nda kullanilagelen,olcu ve tartida devrime kadar Turkiye Cumhuriyeti'nde de kullanilan agirlik olcu birimidir.1/80(0.0125) grama denk gelir",
+                "Web": "http://tr.wikipedia.org/wiki/Osmanl%C4%B1_d%C3%B6neminde_%C3%B6l%C3%A7%C3%BC_birimleri"
+            },
+            {
+                "Name": "Bakray",
+                "Coefficient": 20000,
+                "Abbreviation": "",
+                "Info": "Osmanli Imparatorlugu'nda kullanilagelen,olcu ve tartida devrime kadar Turkiye Cumhuriyeti'nde de kullanilan agirlik olcu birimidir.1/20(0.05) grama denk gelir",
+                "Web": "http://tr.wikipedia.org/wiki/Osmanl%C4%B1_d%C3%B6neminde_%C3%B6l%C3%A7%C3%BC_birimleri"
+            },
+            {
+                "Name": "Batman",
+                "Coefficient": 0.130005200208008,
+                "Abbreviation": "",
+                "Info": "Osmanli Imparatorlugu'nda kullanilagelen,olcu ve tartida devrime kadar Turkiye Cumhuriyeti'nde de kullanilan agirlik olcu birimidir.7,697 kilograma esittir.",
+                "Web": "http://tr.wikipedia.org/wiki/Osmanl%C4%B1_d%C3%B6neminde_%C3%B6l%C3%A7%C3%BC_birimleri"
+            },
+            {
+                "Name": "Bugday",
+                "Coefficient": 40000,
+                "Abbreviation": "",
+                "Info": "Osmanli Imparatorlugu'nda kullanilagelen,olcu ve tartida devrime kadar Turkiye Cumhuriyeti'nde de kullanilan agirlik olcu birimidir.1/40(0.025) grama denk gelen Osmanli agirlik birimidir.",
+                "Web": "http://tr.wikipedia.org/wiki/Osmanl%C4%B1_d%C3%B6neminde_%C3%B6l%C3%A7%C3%BC_birimleri"
+            },
+            {
+                "Name": "Cental",
+                "Coefficient": 0.0220462262184878,
+                "Abbreviation": "cwt",
+                "Web": "http://en.wikipedia.org/wiki/Cental"
+            },
+            {
+                "Name": "ceki",
+                "Coefficient": 0.00442873718987768,
+                "Abbreviation": "",
+                "Info": "Osmanli Imparatorlugu'nda kullanilagelen,olcu ve tartida devrime kadar Turkiye Cumhuriyeti'nde de kullanilan agirlik olcu birimidir.225,789 kilograma denk gelen eski bir agirlik birimidir.",
+                "Web": "http://tr.wikipedia.org/wiki/Osmanl%C4%B1_d%C3%B6neminde_%C3%B6l%C3%A7%C3%BC_birimleri"
+            },
+            {
+                "Name": "Denk",
+                "Coefficient": 2257.53356478907,
+                "Abbreviation": "",
+                "Info": "Osmanli Imparatorlugu'nda kullanilagelen,olcu ve tartida devrime kadar Turkiye Cumhuriyeti'nde de kullanilan agirlik olcu birimidir",
+                "Web": "http://tr.wikipedia.org/wiki/Osmanl%C4%B1_d%C3%B6neminde_%C3%B6l%C3%A7%C3%BC_birimleri"
+            },
+            {
+                "Name": "Dekagram",
+                "Coefficient": 100,
+                "Abbreviation": "dag",
+                "Web": "http://tr.wikipedia.org/wiki/K%C3%BCtle"
+            },
+            {
+                "Name": "Desigram",
+                "Coefficient": 10000,
+                "Abbreviation": "dg",
+                "Web": "http://tr.wikipedia.org/wiki/K%C3%BCtle"
+            },
+            {
+                "Name": "Dirhem",
+                "Coefficient": 564.383391197268,
+                "Abbreviation": "",
+                "Info": "Osmanli Imparatorlugu'nda kullanilagelen,olcu ve tartida devrime kadar Turkiye Cumhuriyeti'nde de kullanilan agirlik olcu birimidir. 3,207 gram a denk gelir",
+                "Web": "http://tr.wikipedia.org/wiki/Dirhem"
+            },
+            {
+                "Name": "Dirhemiseri",
+                "Coefficient": 357.060733174227,
+                "Abbreviation": "",
+                "Info": "Osmanli Imparatorlugu'nda kullanilagelen,olcu ve tartida devrime kadar Turkiye Cumhuriyeti'nde de kullanilan agirlik olcu birimidir. Yaklasik 2.8 grama denk gelir",
+                "Web": "http://tr.wikipedia.org/wiki/Osmanl%C4%B1_d%C3%B6neminde_%C3%B6l%C3%A7%C3%BC_birimleri"
+            },
+            {
+                "Name": "Dunuk",
+                "Coefficient": 1250,
+                "Abbreviation": "",
+                "Info": "Osmanli Imparatorlugu'nda kullanilagelen,olcu ve tartida devrime kadar Turkiye Cumhuriyeti'nde de kullanilan agirlik olcu birimidir. Yaklasik 0.8 grama denk gelir",
+                "Web": "http://tr.wikipedia.org/wiki/Osmanl%C4%B1_d%C3%B6neminde_%C3%B6l%C3%A7%C3%BC_birimleri"
+            },
+            {
+                "Name": "Fitil",
+                "Coefficient": 80000,
+                "Abbreviation": "",
+                "Info": "Osmanli Imparatorlugu'nda kullanilagelen,olcu ve tartida devrime kadar Turkiye Cumhuriyeti'nde de kullanilan agirlik olcu birimidir. Gram in seksende birine denk gelir.",
+                "Web": "http://tr.wikipedia.org/wiki/Osmanl%C4%B1_d%C3%B6neminde_%C3%B6l%C3%A7%C3%BC_birimleri"
+            },
+            {
+                "Name": "Galon",
+                "Coefficient": 0.264172052358148,
+                "Abbreviation": "Gal",
+                "Info": "Galon, basta Birlesik Krallik ve Kuzey Amerika olmak uzere bazi ulkelerde kullanilan bir hacim olcu birimi.",
+                "Web": "http://en.wikipedia.org/wiki/Gallon"
+            },
+            {
+                "Name": "Gigagram",
+                "Coefficient": 0.000001,
+                "Abbreviation": "Gg",
+                "Info": "1.000.000.000(1 milyar) grama ve 1.000.000(1 milyon) kilograma esit olan olcu birimi.",
+                "Web": "http://en.wikipedia.org/wiki/Gigagram"
+            },
+            {
+                "Name": "Grain",
+                "Coefficient": 15432.3583529414,
+                "Abbreviation": "gr",
+                "Web": "http://en.wikipedia.org/wiki/Grain_(unit)"
+            },
+            {
+                "Name": "Gram",
+                "Coefficient": 1000,
+                "Abbreviation": "g",
+                "Web": "http://en.wikipedia.org/wiki/Gram"
+            },
+            {
+                "Name": "Groston",
+                "Coefficient": 0.000984206526448666,
+                "Abbreviation": "GTN",
+                "Web": "http://en.wikipedia.org/wiki/Gross_tons"
+            },
+            {
+                "Name": "Habbe",
+                "Coefficient": 40000,
+                "Abbreviation": ""
+            },
+            {
+                "Name": "HardalTanesi",
+                "Coefficient": 4000000,
+                "Abbreviation": ""
+            },
+            {
+                "Name": "Hundredweight",
+                "Coefficient": 0.0196842643990394,
+                "Abbreviation": "cwt",
+                "Web": "http://en.wikipedia.org/wiki/Hundredweight"
+            },
+            {
+                "Name": "Kantar",
+                "Coefficient": 0.0177279818465466,
+                "Abbreviation": "",
+                "Web": "http://tr.wikipedia.org/wiki/Kantar_(birim)"
+            },
+            {
+                "Name": "Karat",
+                "Coefficient": 5000,
+                "Abbreviation": "",
+                "Web": "http://tr.wikipedia.org/wiki/Karat"
+            },
+            {
+                "Name": "Kental",
+                "Coefficient": 0.01,
+                "Abbreviation": "K",
+                "Info": "100 kilogramlik bir agirlik olcu birimi.",
+                "Web": "http://en.wikipedia.org/wiki/Cental"
+            },
+            {
+                "Name": "Kitmir",
+                "Coefficient": 320000,
+                "Abbreviation": "",
+                "Web": "http://tr.wikipedia.org/wiki/Osmanl%C4%B1_d%C3%B6neminde_%C3%B6l%C3%A7%C3%BC_birimleri"
+            },
+            {
+                "Name": "Kirat",
+                "Coefficient": 4998.85026443918,
+                "Abbreviation": "",
+                "Web": "http://tr.wikipedia.org/wiki/Osmanl%C4%B1_d%C3%B6neminde_%C3%B6l%C3%A7%C3%BC_birimleri"
+            },
+            {
+                "Name": "Kiyye",
+                "Coefficient": 0.78003120124805,
+                "Abbreviation": "",
+                "Web": "http://tr.wikipedia.org/wiki/Osmanl%C4%B1_d%C3%B6neminde_%C3%B6l%C3%A7%C3%BC_birimleri"
+            },
+            {
+                "Name": "Kilogram",
+                "Coefficient": 1,
+                "Abbreviation": "kg",
+                "Web": "http://en.wikipedia.org/wiki/Kilogram"
+            },
+            {
+                "Name": "Kiloton",
+                "Coefficient": 0.000001,
+                "Abbreviation": "kt",
+                "Web": "http://en.wikipedia.org/wiki/Kiloton"
+            },
+            {
+                "Name": "Libre",
+                "Coefficient": 2.20462262184878,
+                "Abbreviation": "lb",
+                "Web": "http://en.wikipedia.org/wiki/Pound_(mass)"
+            },
+            {
+                "Name": "Litre",
+                "Coefficient": 1,
+                "Abbreviation": "l",
+                "Web": "http://en.wikipedia.org/wiki/Liter"
+            },
+            {
+                "Name": "Ludre",
+                "Coefficient": 1.77556818181818,
+                "Abbreviation": "",
+                "Web": "http://tr.wikipedia.org/wiki/Osmanl%C4%B1_d%C3%B6neminde_%C3%B6l%C3%A7%C3%BC_birimleri"
+            },
+            {
+                "Name": "Megagram",
+                "Coefficient": 0.001,
+                "Abbreviation": "Mg",
+                "Info": "",
+                "Web": "http://en.wikipedia.org/wiki/Megagram"
+            },
+            {
+                "Name": "Megaton",
+                "Coefficient": 1e-9,
+                "Abbreviation": "Mt",
+                "Info": "",
+                "Web": "http://en.wikipedia.org/wiki/Megatonne"
+            },
+            {
+                "Name": "Metrekup",
+                "Coefficient": 0.00104166666666667,
+                "Abbreviation": "m3",
+                "Info": "",
+                "Web": "http://en.wikipedia.org/wiki/Cubic_metre"
+            },
+            {
+                "Name": "Mikrogram",
+                "Coefficient": 1000000000,
+                "Abbreviation": "µg",
+                "Info": "",
+                "Web": "http://en.wikipedia.org/wiki/Microgram"
+            },
+            {
+                "Name": "Miligram",
+                "Coefficient": 1000000,
+                "Abbreviation": "mg",
+                "Info": "",
+                "Web": "http://en.wikipedia.org/wiki/Miligram"
+            },
+            {
+                "Name": "Mililitre",
+                "Coefficient": 1000,
+                "Abbreviation": "ml",
+                "Info": "",
+                "Web": "http://en.wikipedia.org/wiki/Millilitre#SI_prefixes_applied_to_the_litre"
+            },
+            {
+                "Name": "Misgal",
+                "Coefficient": 833.333333333334,
+                "Abbreviation": "",
+                "Info": "",
+                "Web": ""
+            },
+            {
+                "Name": "Nanogram",
+                "Coefficient": 1000000000000,
+                "Abbreviation": "ng",
+                "Info": "",
+                "Web": "http://en.wikipedia.org/wiki/Nanogram#Other_units"
+            },
+            {
+                "Name": "Nakir",
+                "Coefficient": 160000,
+                "Abbreviation": "",
+                "Info": "",
+                "Web": ""
+            },
+            {
+                "Name": "Okka",
+                "Coefficient": 0.78003120124805,
+                "Abbreviation": "",
+                "Info": "",
+                "Web": ""
+            },
+            {
+                "Name": "Ons(Amerikan)",
+                "Coefficient": 35.2739619495804,
+                "Abbreviation": "oz",
+                "Info": "",
+                "Web": "http://en.wikipedia.org/wiki/Ounce"
+            },
+            {
+                "Name": "Ons(Sarraf)",
+                "Coefficient": 32.150746568628,
+                "Abbreviation": "",
+                "Info": "",
+                "Web": "http://en.wikipedia.org/wiki/Ounce"
+            },
+            {
+                "Name": "Pennyweight",
+                "Coefficient": 643.01493137256,
+                "Abbreviation": "",
+                "Info": "",
+                "Web": "http://en.wikipedia.org/wiki/Pennyweight"
+            },
+            {
+                "Name": "Pirinc",
+                "Coefficient": 160000,
+                "Abbreviation": "",
+                "Info": "",
+                "Web": ""
+            },
+            {
+                "Name": "Pound",
+                "Coefficient": 2.20462262184878,
+                "Abbreviation": "lb,lbs",
+                "Info": "",
+                "Web": "http://en.wikipedia.org/wiki/Pound_(mass)"
+            },
+            {
+                "Name": "Quarter",
+                "Coefficient": 0.37037037037037,
+                "Abbreviation": "qrtr,qrs",
+                "Web": "http://en.wikipedia.org/wiki/Imperial_unit"
+            },
+            {
+                "Name": "Santigram",
+                "Coefficient": 100000,
+                "Abbreviation": "cg",
+                "Web": "http://en.wikipedia.org/wiki/Centigram"
+            },
+            {
+                "Name": "Santilitre",
+                "Coefficient": 104.166666666667,
+                "Abbreviation": "cl",
+                "Web": "http://en.wikipedia.org/wiki/Centilitre"
+            },
+            {
+                "Name": "Stone",
+                "Coefficient": 0.15747304441777,
+                "Abbreviation": "st",
+                "Web": "http://en.wikipedia.org/wiki/Stone_(unit)"
+            },
+            {
+                "Name": "Troypound",
+                "Coefficient": 2.68642442282171,
+                "Abbreviation": "troy",
+                "Web": "http://en.wikipedia.org/wiki/Pound_(Troy)"
+            },
+            {
+                "Name": "Troyons",
+                "Coefficient": 32.15123943028,
+                "Abbreviation": "ozt",
+                "Web": "http://en.wikipedia.org/wiki/Pound_(Troy)"
+            },
+            {
+                "Name": "Ton",
+                "Coefficient": 0.001,
+                "Abbreviation": "t",
+                "Web": "http://en.wikipedia.org/wiki/Tonne"
+            },
+            {
+                "Name": "Tonilato",
+                "Coefficient": 0.001,
+                "Abbreviation": ""
+            },
+            {
+                "Name": "Zerre",
+                "Coefficient": 640000,
+                "Abbreviation": "",
+                "Web": "http://tr.wikipedia.org/wiki/Osmanl%C4%B1_d%C3%B6neminde_%C3%B6l%C3%A7%C3%BC_birimleri"
+            }
+        ]
+    },
+    {
+        "Katagori Adi": "Alan",
+        "Birimler": [
+            {
+                "Name": "Akre",
+                "Coefficient": 0.000247105381467165,
+                "Abbreviation": "",
+                "Web": "http://tr.wikipedia.org/wiki/Acre_(%C3%B6l%C3%A7%C3%BC)"
+            },
+            {
+                "Name": "Ar",
+                "Coefficient": 0.01,
+                "Abbreviation": "a",
+                "Web": "http://tr.wikipedia.org/wiki/Ar"
+            },
+            {
+                "Name": "Arsinkare",
+                "Coefficient": 1.74164446069979,
+                "Abbreviation": "",
+                "Web": "http://tr.wikipedia.org/wiki/Osmanl%C4%B1_d%C3%B6neminde_%C3%B6l%C3%A7%C3%BC_birimleri"
+            },
+            {
+                "Name": "Atik",
+                "Coefficient": 0.001,
+                "Abbreviation": "",
+                "Web": "http://tr.wikipedia.org/wiki/Osmanl%C4%B1_d%C3%B6neminde_%C3%B6l%C3%A7%C3%BC_birimleri"
+            },
+            {
+                "Name": "AtikEvlek",
+                "Coefficient": 0.00435411115174948,
+                "Abbreviation": "",
+                "Web": "http://tr.wikipedia.org/wiki/Osmanl%C4%B1_d%C3%B6neminde_%C3%B6l%C3%A7%C3%BC_birimleri"
+            },
+            {
+                "Name": "Ayakkare(Osmanli)",
+                "Coefficient": 6.96657784279917,
+                "Kisatlma": "",
+                "Web": "http://tr.wikipedia.org/wiki/Osmanl%C4%B1_d%C3%B6neminde_%C3%B6l%C3%A7%C3%BC_birimleri"
+            },
+            {
+                "Name": "Ayakkare(ft2)",
+                "Coefficient": 10.7639104167097,
+                "Abbreviation": "ft2",
+                "Web": "http://en.wikipedia.org/wiki/Square_foot"
+            },
+            {
+                "Name": "Barn",
+                "Coefficient": 1e+28,
+                "Abbreviation": "b",
+                "Info": "",
+                "Web": "http://en.wikipedia.org/wiki/Barn_(unit)"
+            },
+            {
+                "Name": "BuyukDonum",
+                "Coefficient": 0.000367647058823529,
+                "Abbreviation": "",
+                "Web": "http://tr.wikipedia.org/wiki/Osmanl%C4%B1_d%C3%B6neminde_%C3%B6l%C3%A7%C3%BC_birimleri"
+            },
+            {
+                "Name": "carsiArsinKare",
+                "Coefficient": 2.16450216450216,
+                "Abbreviation": "",
+                "Web": "http://tr.wikipedia.org/wiki/Osmanl%C4%B1_d%C3%B6neminde_%C3%B6l%C3%A7%C3%BC_birimleri"
+            },
+            {
+                "Name": "Cerip",
+                "Coefficient": 0.0001,
+                "Abbreviation": "",
+                "Web": "http://tr.wikipedia.org/wiki/Osmanl%C4%B1_d%C3%B6neminde_%C3%B6l%C3%A7%C3%BC_birimleri"
+            },
+            {
+                "Name": "Dekar",
+                "Coefficient": 0.001,
+                "Abbreviation": "daa",
+                "Web": "http://tr.wikipedia.org/wiki/Dekar"
+            },
+            {
+                "Name": "Dekametrekare",
+                "Coefficient": 0.01,
+                "Abbreviation": "dam2",
+                "Web": "http://en.wikipedia.org/wiki/Dekameter"
+            },
+            {
+                "Name": "Desimetrekare",
+                "Coefficient": 100,
+                "Abbreviation": "dm2",
+                "Web": "http://en.wikipedia.org/wiki/Square_decimetre"
+            },
+            {
+                "Name": "Donum",
+                "Coefficient": 0.001,
+                "Abbreviation": "",
+                "Web": "http://tr.wikipedia.org/wiki/D%C3%B6n%C3%BCm"
+            },
+            {
+                "Name": "EndazeKare",
+                "Coefficient": 2.3696682464455,
+                "Abbreviation": "",
+                "Web": "http://tr.wikipedia.org/wiki/Endaze"
+            },
+            {
+                "Name": "Evlek",
+                "Coefficient": 0.004,
+                "Abbreviation": "",
+                "Web": "http://tr.wikipedia.org/wiki/Evlek"
+            },
+            {
+                "Name": "Eykir",
+                "Coefficient": 0.000247105381467165,
+                "Abbreviation": ""
+            },
+            {
+                "Name": "Footkare(ft2)",
+                "Coefficient": 10.7639104167097,
+                "Abbreviation": "ft2",
+                "Web": "http://en.wikipedia.org/wiki/Square_foot"
+            },
+            {
+                "Name": "Hatkare",
+                "Coefficient": 144362.63894904,
+                "Abbreviation": "",
+                "Web": "http://tr.wikipedia.org/wiki/Osmanl%C4%B1_d%C3%B6neminde_%C3%B6l%C3%A7%C3%BC_birimleri"
+            },
+            {
+                "Name": "Hektar",
+                "Coefficient": 0.0001,
+                "Abbreviation": "ha",
+                "Web": "http://en.wikipedia.org/wiki/Hectare"
+            },
+            {
+                "Name": "Hektometrekare",
+                "Coefficient": 0.0001,
+                "Abbreviation": "hm2",
+                "Web": "http://en.wikipedia.org/wiki/Square_hectometre"
+            },
+            {
+                "Name": "Homestead",
+                "Coefficient": 0.00000154440863416978,
+                "Abbreviation": ""
+            },
+            {
+                "Name": "IranFettani",
+                "Coefficient": 0.00000546448087431694,
+                "Abbreviation": ""
+            },
+            {
+                "Name": "Inckare",
+                "Coefficient": 1550.0031000062,
+                "Abbreviation": "in2",
+                "Web": "http://en.wikipedia.org/wiki/Square_inch"
+            },
+            {
+                "Name": "Jugerum",
+                "Coefficient": 0.000396353547364249,
+                "Abbreviation": "",
+                "Info": "",
+                "Web": "http://en.wikipedia.org/wiki/Jugerum"
+            },
+            {
+                "Name": "Kilometrekare",
+                "Coefficient": 0.000001,
+                "Abbreviation": "km2",
+                "Web": "http://en.wikipedia.org/wiki/Square_kilometer"
+            },
+            {
+                "Name": "Kirahkare",
+                "Coefficient": 553.64854390433,
+                "Abbreviation": "",
+                "Web": "http://tr.wikipedia.org/wiki/Osmanl%C4%B1_d%C3%B6neminde_%C3%B6l%C3%A7%C3%BC_birimleri"
+            },
+            {
+                "Name": "Metrekare",
+                "Coefficient": 1,
+                "Abbreviation": "m2",
+                "Web": "http://en.wikipedia.org/wiki/Square_metre"
+            },
+            {
+                "Name": "Milkare",
+                "Coefficient": 3.86102158542446e-7,
+                "Abbreviation": "mi2",
+                "Web": "http://en.wikipedia.org/wiki/Square_mile"
+            },
+            {
+                "Name": "Milimetrekare",
+                "Coefficient": 1000000,
+                "Abbreviation": "mm2",
+                "Web": "http://en.wikipedia.org/wiki/Square_millimeter"
+            },
+            {
+                "Name": "MimariArsinKare",
+                "Coefficient": 1.74216027874564,
+                "Abbreviation": "",
+                "Web": "http://tr.wikipedia.org/wiki/Osmanl%C4%B1_d%C3%B6neminde_%C3%B6l%C3%A7%C3%BC_birimleri"
+            },
+            {
+                "Name": "MisirFettani",
+                "Coefficient": 0.000238095238095238,
+                "Abbreviation": "",
+                "Web": "http://tr.wikipedia.org/wiki/Osmanl%C4%B1_d%C3%B6neminde_%C3%B6l%C3%A7%C3%BC_birimleri"
+            },
+            {
+                "Name": "Parmakkare",
+                "Coefficient": 1002.49621557679,
+                "Abbreviation": "",
+                "Web": "http://tr.wikipedia.org/wiki/Osmanl%C4%B1_d%C3%B6neminde_%C3%B6l%C3%A7%C3%BC_birimleri"
+            },
+            {
+                "Name": "Ree",
+                "Coefficient": 0.000988435306909163,
+                "Abbreviation": ""
+            },
+            {
+                "Name": "Rood",
+                "Coefficient": 0.000988421525868661,
+                "Abbreviation": ""
+            },
+            {
+                "Name": "Rute",
+                "Coefficient": 0.0703729767769176,
+                "Abbreviation": "",
+                "Web": "http://tr.wikipedia.org/wiki/Osmanl%C4%B1_d%C3%B6neminde_%C3%B6l%C3%A7%C3%BC_birimleri"
+            },
+            {
+                "Name": "Santimetrekare",
+                "Coefficient": 10000,
+                "Abbreviation": "cm2",
+                "Web": "http://en.wikipedia.org/wiki/Square_centimetre"
+            },
+            {
+                "Name": "Urupkare",
+                "Coefficient": 138.40830449827,
+                "Abbreviation": "",
+                "Web": "http://tr.wikipedia.org/wiki/Osmanl%C4%B1_d%C3%B6neminde_%C3%B6l%C3%A7%C3%BC_birimleri"
+            },
+            {
+                "Name": "Yardkare",
+                "Coefficient": 1.19599004630108,
+                "Abbreviation": "yd2",
+                "Web": "http://en.wikipedia.org/wiki/Square_yard"
+            },
+            {
+                "Name": "YeniEvlek",
+                "Coefficient": 0.01,
+                "Abbreviation": "",
+                "Web": "http://tr.wikipedia.org/wiki/Osmanl%C4%B1_d%C3%B6neminde_%C3%B6l%C3%A7%C3%BC_birimleri"
+            },
+            {
+                "Name": "Ziraikare",
+                "Coefficient": 1.74164446069979,
+                "Abbreviation": "",
+                "Web": "http://tr.wikipedia.org/wiki/Osmanl%C4%B1_d%C3%B6neminde_%C3%B6l%C3%A7%C3%BC_birimleri"
+            }
+        ]
+    },
+    {
+        "Katagori Adi": "Basinc",
+        "Birimler": [
+            {
+                "Name": "Atmosfer",
+                "Coefficient": 1,
+                "Abbreviation": "atm",
+                "Web": "http://en.wikipedia.org/wiki/Atmospheric_pressure"
+            },
+            {
+                "Name": "Attobar",
+                "Coefficient": 1013250100004380000,
+                "Abbreviation": "abar"
+            },
+            {
+                "Name": "Attopascal",
+                "Coefficient": 1.01325010000438e+23,
+                "Abbreviation": "aPa"
+            },
+            {
+                "Name": "Bar",
+                "Coefficient": 1.01325010000438,
+                "Abbreviation": "bar",
+                "Web": "http://en.wikipedia.org/wiki/Bar_(unit)"
+            },
+            {
+                "Name": "Barad",
+                "Coefficient": 1013250.10000438,
+                "Abbreviation": "ba",
+                "Web": "http://en.wikipedia.org/wiki/Barye"
+            },
+            {
+                "Name": "Barye",
+                "Coefficient": 1013250.10000438,
+                "Abbreviation": "ba",
+                "Web": "http://en.wikipedia.org/wiki/Barye"
+            },
+            {
+                "Name": "Desibar",
+                "Coefficient": 10.1325010000438,
+                "Abbreviation": "dbar",
+                "Web": "http://en.wikipedia.org/wiki/Decibar"
+            },
+            {
+                "Name": "Desipascal",
+                "Coefficient": 1013250.10000438,
+                "Abbreviation": "dPa",
+                "Web": "http://en.wikipedia.org/wiki/Pascal_(unit)"
+            },
+            {
+                "Name": "Desitorr",
+                "Coefficient": 7600.00066010566,
+                "Abbreviation": "dTorr",
+                "Web": "http://en.wikipedia.org/wiki/Pascal_(unit)"
+            },
+            {
+                "Name": "Dekabar",
+                "Coefficient": 0.101325010000438,
+                "Abbreviation": "Dbar",
+                "Web": "http://en.wikipedia.org/wiki/Pascal_(unit)"
+            },
+            {
+                "Name": "Dekapascal",
+                "Coefficient": 10132.5010000438,
+                "Abbreviation": "DPa",
+                "Web": "http://en.wikipedia.org/wiki/Pascal_(unit)"
+            },
+            {
+                "Name": "Dyne/cm2",
+                "Coefficient": 1013250.10000438,
+                "Abbreviation": "dyn/cm2"
+            },
+            {
+                "Name": "Dyne/mm2",
+                "Coefficient": 10132.5010000438,
+                "Abbreviation": "dyn/mm2"
+            },
+            {
+                "Name": "Dyne/milimetrekare",
+                "Coefficient": 10132.5010000438,
+                "Abbreviation": "dyn/mm2"
+            },
+            {
+                "Name": "Dyne/santimetrekare",
+                "Coefficient": 1013250.10000438,
+                "Abbreviation": "dyn/cm2"
+            },
+            {
+                "Name": "Exabar",
+                "Coefficient": 1.0132501e-18,
+                "Abbreviation": "Ebar"
+            },
+            {
+                "Name": "Exapascal",
+                "Coefficient": 1.01325010000438e-13,
+                "Abbreviation": "EPA"
+            },
+            {
+                "Name": "Femtobar",
+                "Coefficient": 1013250100004380,
+                "Abbreviation": "fbar"
+            },
+            {
+                "Name": "Femtopascal",
+                "Coefficient": 101325010000438000000,
+                "Abbreviation": "fPa"
+            },
+            {
+                "Name": "Foothava(0Derecede)",
+                "Coefficient": 26222.2260524154,
+                "Abbreviation": ""
+            },
+            {
+                "Name": "Foothava(15Derecede)",
+                "Coefficient": 27667.0946954721,
+                "Abbreviation": ""
+            },
+            {
+                "Name": "Foothead",
+                "Coefficient": 33.898542050493,
+                "Abbreviation": ""
+            },
+            {
+                "Name": "Foot civa(0Derecede)",
+                "Coefficient": 2.4934381916932,
+                "Abbreviation": "ftHg"
+            },
+            {
+                "Name": "Foot su(4Derecede)",
+                "Coefficient": 33.898542050493,
+                "Abbreviation": "ftAq",
+                "Web": ""
+            },
+            {
+                "Name": "Gigabar",
+                "Coefficient": 1.01325010000438e-9,
+                "Abbreviation": "Gbar",
+                "Web": "http://en.wikipedia.org/wiki/Gigabar"
+            },
+            {
+                "Name": "Gigapascal",
+                "Coefficient": 0.000101325010000438,
+                "Abbreviation": "GPa",
+                "Web": "http://en.wikipedia.org/wiki/Pascal_(unit)"
+            },
+            {
+                "Name": "Gram-kuvvet/metrekare",
+                "Coefficient": 0.103322755476679,
+                "Abbreviation": "gf/m2"
+            },
+            {
+                "Name": "Gram-kuvvet/milimetrekare",
+                "Coefficient": 10.3322755476679,
+                "Abbreviation": "gf/mm2"
+            },
+            {
+                "Name": "Gram-kuvvet/santimetrekare",
+                "Coefficient": 1033.22755476679,
+                "Abbreviation": "gf/cm2"
+            },
+            {
+                "Name": "Hektobar",
+                "Coefficient": 0.0101325010000438,
+                "Abbreviation": "hbar"
+            },
+            {
+                "Name": "HektoPascal",
+                "Coefficient": 1013.25010000438,
+                "Abbreviation": "hPa",
+                "Web": "http://en.wikipedia.org/wiki/Hectopascal"
+            },
+            {
+                "Name": "Inchava(0Derecede)",
+                "Coefficient": 314666.712628985,
+                "Abbreviation": ""
+            },
+            {
+                "Name": "Inchava(15Derecede)",
+                "Coefficient": 332005.136338317,
+                "Abbreviation": ""
+            },
+            {
+                "Name": "Incciva(0Derecede)",
+                "Coefficient": 29.9212582995723,
+                "Abbreviation": ""
+            },
+            {
+                "Name": "Incsu(4Derecede)",
+                "Coefficient": 406.782504605916,
+                "Abbreviation": ""
+            },
+            {
+                "Name": "Incsusutunu",
+                "Coefficient": 406.782504605916,
+                "Abbreviation": ""
+            },
+            {
+                "Name": "Kgf/cm2",
+                "Coefficient": 1.03322755476679,
+                "Abbreviation": "kgf/cm2"
+            },
+            {
+                "Name": "Kgf/m2",
+                "Coefficient": 10332.2755476679,
+                "Abbreviation": "kgf/m2"
+            },
+            {
+                "Name": "Kgf/mm2",
+                "Coefficient": 0.0103322755476679,
+                "Abbreviation": "kgf/mm2"
+            },
+            {
+                "Name": "Kilobar",
+                "Coefficient": 0.00101325010000438,
+                "Abbreviation": "kbar",
+                "Web": "http://en.wikipedia.org/wiki/Kilobar"
+            },
+            {
+                "Name": "Kilogram-kuvvet/metrekare",
+                "Coefficient": 10332.2755476679,
+                "Abbreviation": "kgf/m2"
+            },
+            {
+                "Name": "Kilogram-kuvvet/milimetrekare",
+                "Coefficient": 0.0103322755476679,
+                "Abbreviation": "kgf/mm2"
+            },
+            {
+                "Name": "Kilogram-kuvvet/santimetrekare",
+                "Coefficient": 1.03322755476679,
+                "Abbreviation": "kgf/cm2"
+            },
+            {
+                "Name": "Kilopound-kuvvet/inckare",
+                "Coefficient": 0.014695950254024,
+                "Abbreviation": "kipf/in2"
+            },
+            {
+                "Name": "Kilonewton/m2",
+                "Coefficient": 101.325010000438,
+                "Abbreviation": "kN/m2"
+            },
+            {
+                "Name": "Kilopascal",
+                "Coefficient": 101.325010000438,
+                "Abbreviation": "kPa",
+                "Web": "http://en.wikipedia.org/wiki/Kilopascal"
+            },
+            {
+                "Name": "Kilopond/santimetrekare",
+                "Coefficient": 1.03322755476679,
+                "Abbreviation": "kgf/cm2"
+            },
+            {
+                "Name": "Kilopond/metrekare",
+                "Coefficient": 10332.2755476679,
+                "Abbreviation": "kgf/m2"
+            },
+            {
+                "Name": "Kilopond/milimetrekare",
+                "Coefficient": 0.0103322755476679,
+                "Abbreviation": "kgf/mm2"
+            },
+            {
+                "Name": "Kip/footkare",
+                "Coefficient": 2.11621683657946,
+                "Abbreviation": "kip/ft2"
+            },
+            {
+                "Name": "Kip/inckare",
+                "Coefficient": 0.014695950254024,
+                "Abbreviation": "kip/in2"
+            },
+            {
+                "Name": "Ksi",
+                "Coefficient": 0.014695950254024,
+                "Abbreviation": "ksi",
+                "Web": "http://en.wikipedia.org/wiki/Ksi_(unit)#ksi"
+            },
+            {
+                "Name": "Megabar",
+                "Coefficient": 0.00000101325010000438,
+                "Abbreviation": "Mbar",
+                "Web": "http://en.wikipedia.org/wiki/Megabar"
+            },
+            {
+                "Name": "Meganewton/metrekare",
+                "Coefficient": 0.101325010000438,
+                "Abbreviation": "MN/m2"
+            },
+            {
+                "Name": "Megapascal",
+                "Coefficient": 0.101325010000438,
+                "Abbreviation": "MPa",
+                "Web": "http://en.wikipedia.org/wiki/Megapascal"
+            },
+            {
+                "Name": "Metrehava(0Derece)",
+                "Coefficient": 7992.53430733869,
+                "Abbreviation": ""
+            },
+            {
+                "Name": "Metrehava(15Derece)",
+                "Coefficient": 8432.93068039028,
+                "Abbreviation": ""
+            },
+            {
+                "Name": "Metrehead",
+                "Coefficient": 10.3349213567466,
+                "Abbreviation": ""
+            },
+            {
+                "Name": "Mikrobar(microbar)",
+                "Coefficient": 1013250.10000438,
+                "Abbreviation": "µbar",
+                "Web": "http://en.wikipedia.org/wiki/Microbar"
+            },
+            {
+                "Name": "Mikrometreciva(0Derecede)",
+                "Coefficient": 759999.951992323,
+                "Abbreviation": "µmHg"
+            },
+            {
+                "Name": "Mikrometresu(4Derecede)",
+                "Coefficient": 10332275.5476679,
+                "Abbreviation": "µmAq"
+            },
+            {
+                "Name": "Mikronciva(0Derecede)",
+                "Coefficient": 759999.951992323,
+                "Abbreviation": "µHg"
+            },
+            {
+                "Name": "Mikropascal",
+                "Coefficient": 101325010000.438,
+                "Abbreviation": "µPa"
+            },
+            {
+                "Name": "Milibar",
+                "Coefficient": 1013.25010000438,
+                "Abbreviation": "mbar",
+                "Info": "",
+                "Web": "http://en.wikipedia.org/wiki/Millibar"
+            },
+            {
+                "Name": "Miligram-kuvvet/metrekare",
+                "Coefficient": 10332275547.6679,
+                "Abbreviation": "mgf/m2"
+            },
+            {
+                "Name": "Miligram-kuvvet/milimetrekare",
+                "Coefficient": 10332.2755476679,
+                "Abbreviation": "mgf/mm2"
+            },
+            {
+                "Name": "Miligram-kuvvet/santimetrekare",
+                "Coefficient": 1033227.55476679,
+                "Abbreviation": "mgf/cm2"
+            },
+            {
+                "Name": "MiliHg",
+                "Coefficient": 760,
+                "Abbreviation": "mHg"
+            },
+            {
+                "Name": "Milimetreciva(0Derecede)",
+                "Coefficient": 760.00000004864,
+                "Abbreviation": "mmHg"
+            },
+            {
+                "Name": "Milimetresu(4Derecede)",
+                "Coefficient": 10332.2755476679,
+                "Abbreviation": "mmAq"
+            },
+            {
+                "Name": "Milimetresusutunu",
+                "Coefficient": 10332.2755476679,
+                "Abbreviation": ""
+            },
+            {
+                "Name": "Milipascal",
+                "Coefficient": 101325010.000438,
+                "Abbreviation": "mPa"
+            },
+            {
+                "Name": "Militorr",
+                "Coefficient": 760000.066010566,
+                "Abbreviation": "mTorr",
+                "Web": "http://en.wikipedia.org/wiki/Millitorr"
+            },
+            {
+                "Name": "MmHg(ODerecede)",
+                "Coefficient": 760.00000004864,
+                "Abbreviation": "mmHg"
+            },
+            {
+                "Name": "Nanobar",
+                "Coefficient": 1013250100.00438,
+                "Abbreviation": "nbar",
+                "Web": "http://en.wikipedia.org/wiki/Nanobar"
+            },
+            {
+                "Name": "Nanopascal",
+                "Coefficient": 101325010000438,
+                "Abbreviation": "nPa",
+                "Web": "http://en.wikipedia.org/wiki/Nanopascal"
+            },
+            {
+                "Name": "Newton/metrekare",
+                "Coefficient": 101325.010000438,
+                "Abbreviation": "N/m2"
+            },
+            {
+                "Name": "Newton/milimetrekare",
+                "Coefficient": 0.101325010000438,
+                "Abbreviation": "N/mm2"
+            },
+            {
+                "Name": "Ons/inckare",
+                "Coefficient": 235.135204064385,
+                "Abbreviation": ""
+            },
+            {
+                "Name": "Pascal",
+                "Coefficient": 101325.010000438,
+                "Abbreviation": "Pa",
+                "Web": "http://en.wikipedia.org/wiki/Pascal_(unit)"
+            },
+            {
+                "Name": "Petabar",
+                "Coefficient": 1.0132501000044e-15,
+                "Abbreviation": "Pbar"
+            },
+            {
+                "Name": "Petapascal",
+                "Coefficient": 1.01325010000438e-10,
+                "Abbreviation": "PPa"
+            },
+            {
+                "Name": "Pikobar",
+                "Coefficient": 1013250100004.38,
+                "Abbreviation": "pbar"
+            },
+            {
+                "Name": "Pikopascal",
+                "Coefficient": 101325010000438000,
+                "Abbreviation": "pPa"
+            },
+            {
+                "Name": "Pieze",
+                "Coefficient": 101.325010000438,
+                "Abbreviation": "pz",
+                "Web": "http://en.wikipedia.org/wiki/Pi%C3%A8ze"
+            },
+            {
+                "Name": "Pound/footkare",
+                "Coefficient": 2116.21683657946,
+                "Abbreviation": "psf"
+            },
+            {
+                "Name": "Pound/inckare",
+                "Coefficient": 14.695950254024,
+                "Abbreviation": "psi"
+            },
+            {
+                "Name": "Poundal/footkare",
+                "Coefficient": 68087.2651213003,
+                "Abbreviation": "pdl/ft2"
+            },
+            {
+                "Name": "Poundal/inckare",
+                "Coefficient": 472.828887953738,
+                "Abbreviation": "pdl/in2"
+            },
+            {
+                "Name": "Santibar",
+                "Coefficient": 101.325010000438,
+                "Abbreviation": "cbar",
+                "Web": "http://en.wikipedia.org/wiki/Centibar"
+            },
+            {
+                "Name": "SantiHg",
+                "Coefficient": 76,
+                "Abbreviation": "cHg"
+            },
+            {
+                "Name": "Santimetreciva(0Derecede)",
+                "Coefficient": 76,
+                "Abbreviation": "cmHg"
+            },
+            {
+                "Name": "Santimetresu(4Derecede)",
+                "Coefficient": 1033.22755476679,
+                "Abbreviation": "cmAq"
+            },
+            {
+                "Name": "Santimetresusutunu",
+                "Coefficient": 1033.22755476679,
+                "Abbreviation": ""
+            },
+            {
+                "Name": "Santipascal",
+                "Coefficient": 10132501.0000438,
+                "Abbreviation": "cPa"
+            },
+            {
+                "Name": "Santitorr",
+                "Coefficient": 76000.0066010566,
+                "Abbreviation": "cTorr"
+            },
+            {
+                "Name": "Sthene/metrekare",
+                "Coefficient": 101.325010000438,
+                "Abbreviation": "sn/m2"
+            },
+            {
+                "Name": "Teknikatmosfer",
+                "Coefficient": 1.03322755476679,
+                "Abbreviation": "atm"
+            },
+            {
+                "Name": "Terabar",
+                "Coefficient": 1.01325010000438e-12,
+                "Abbreviation": "Tbar",
+                "Info": "",
+                "Web": "http://en.wikipedia.org/wiki/Centibar"
+            },
+            {
+                "Name": "Terapascal",
+                "Coefficient": 1.01325010000438e-7,
+                "Abbreviation": "TPa"
+            },
+            {
+                "Name": "Ton/footkare(uzun)",
+                "Coefficient": 0.944739659222961,
+                "Abbreviation": "t/ft2"
+            },
+            {
+                "Name": "Ton/footkare(kisa)",
+                "Coefficient": 1.05810841827854,
+                "Abbreviation": "t/ft2"
+            },
+            {
+                "Name": "Ton/inckare(uzun)",
+                "Coefficient": 0.00656069207783393,
+                "Abbreviation": "t/in2"
+            },
+            {
+                "Name": "Ton/inckare(kisa)",
+                "Coefficient": 0.00734797512690404,
+                "Abbreviation": "t/in2"
+            },
+            {
+                "Name": "Ton/metrekare",
+                "Coefficient": 10.3322755476679,
+                "Abbreviation": "t/m2"
+            },
+            {
+                "Name": "Ton-kuvvet/metrekare",
+                "Coefficient": 10.3322755476679,
+                "Abbreviation": "tf/m2"
+            },
+            {
+                "Name": "Torr",
+                "Coefficient": 760,
+                "Abbreviation": "Torr",
+                "Web": "http://en.wikipedia.org/wiki/Torr"
+            },
+            {
+                "Name": "Yoctobar",
+                "Coefficient": 1.01325010000438e+24,
+                "Abbreviation": "ybar"
+            },
+            {
+                "Name": "Yoctopascal",
+                "Coefficient": 1.01325010000438e+24,
+                "Abbreviation": "yPa"
+            },
+            {
+                "Name": "Yottabar",
+                "Coefficient": 1.0133e-24,
+                "Abbreviation": "Ybar"
+            },
+            {
+                "Name": "Yottapascal",
+                "Coefficient": 1.0132501e-19,
+                "Abbreviation": "YPa"
+            },
+            {
+                "Name": "Zeptobar",
+                "Coefficient": 1.01325010000438e+21,
+                "Abbreviation": "zbar"
+            },
+            {
+                "Name": "Zeptopascal",
+                "Coefficient": 1.01325010000438e+26,
+                "Abbreviation": "zPa"
+            },
+            {
+                "Name": "Zettabar",
+                "Coefficient": 1.0132501e-21,
+                "Abbreviation": "Zbar"
+            },
+            {
+                "Name": "Zettapascal",
+                "Coefficient": 1.013250100004e-16,
+                "Abbreviation": "ZPa"
+            }
+        ]
+    },
+    {
+        "Katagori Adi": "Bilgisayar",
+        "Birimler": [
+            {
+                "Name": "Bayt",
+                "Coefficient": 1,
+                "Abbreviation": "Byte",
+                "Info": "Bayt elektronik ve Infosayar bilimlerinde genellikle 8 bitlik dizilim boyunca 1 veya 0 degerlerini bunyesine alan ve kaydedilen Infolerin turunden bagimsiz bir bellek olcum birimi. Bir bayt, Latin alfabesini baz alan 8-bitlik bir kodlamada herhangi bir harfi temsil eder.",
+                "Web": "http://tr.wikipedia.org/wiki/Bayt"
+            },
+            {
+                "Name": "Bit",
+                "Coefficient": 8.00001943147078,
+                "Abbreviation": "bit",
+                "Info": "Programlama ve haberlesmede, bir bit Info depolama ve haberlesme veya baglantinin en kucuk ve temel unitesidir. Bir cihaz ya da fiziksel bir sistem tarafindan depolanabilecek Infonin maksimum degeri normal olarak sadece 2 farkli sekilde bulunabilir. Bu durumlar genellikle (ozellikle numerik veride) ikili sayilar 0 ve 1 olarak yorumlanir. Ayrica mantiksal degerler logical values , dogru ya da yanlis, flag ya da switch, on ya da off olarak yorumlanabilir.",
+                "Web": "http://tr.wikipedia.org/wiki/Bit_(bili%C5%9Fim)"
+            },
+            {
+                "Name": "Exabayt",
+                "Coefficient": 8.67361738e-19,
+                "Abbreviation": "EB",
+                "Web": "http://en.wikipedia.org/wiki/Exabyte"
+            },
+            {
+                "Name": "Exabit",
+                "Coefficient": 6.9388939039e-18,
+                "Abbreviation": "Ebit , Eb",
+                "Web": "http://en.wikipedia.org/wiki/Exabit"
+            },
+            {
+                "Name": "Gigabayt",
+                "Coefficient": 9.3132257461543e-10,
+                "Abbreviation": "GB",
+                "Web": "http://en.wikipedia.org/wiki/Gigabyte"
+            },
+            {
+                "Name": "Gigabit",
+                "Coefficient": 7.45058059692344e-9,
+                "Abbreviation": "Gb",
+                "Web": "http://en.wikipedia.org/wiki/Gigabit"
+            },
+            {
+                "Name": "Kilobayt",
+                "Coefficient": 0.000976562499999949,
+                "Abbreviation": "kB",
+                "Web": "http://en.wikipedia.org/wiki/Kilobyte"
+            },
+            {
+                "Name": "Kilobit",
+                "Coefficient": 0.00781249999999959,
+                "Abbreviation": "kb",
+                "Web": "http://en.wikipedia.org/wiki/Kilobit"
+            },
+            {
+                "Name": "Megabayt",
+                "Coefficient": 9.536743164062e-7,
+                "Abbreviation": "MB",
+                "Web": "http://en.wikipedia.org/wiki/Megabyte"
+            },
+            {
+                "Name": "Megabit",
+                "Coefficient": 0.0000076293945312496,
+                "Abbreviation": "Mb",
+                "Web": "http://en.wikipedia.org/wiki/Megabit"
+            },
+            {
+                "Name": "Petabayt",
+                "Coefficient": 8.881784197001e-16,
+                "Abbreviation": "PB",
+                "Web": "http://en.wikipedia.org/wiki/Petabyte"
+            },
+            {
+                "Name": "Petabit",
+                "Coefficient": 7.1054273576006e-15,
+                "Abbreviation": "Pb",
+                "Web": "http://en.wikipedia.org/wiki/Petabit"
+            },
+            {
+                "Name": "Terabayt",
+                "Coefficient": 9.09494701772881e-13,
+                "Abbreviation": "TB",
+                "Web": "http://en.wikipedia.org/wiki/Terabyte"
+            },
+            {
+                "Name": "Terabit",
+                "Coefficient": 7.27595761418304e-12,
+                "Abbreviation": "Tb",
+                "Web": "http://en.wikipedia.org/wiki/Terabit"
+            },
+            {
+                "Name": "Yottabayt",
+                "Coefficient": 8.272e-25,
+                "Abbreviation": "YB",
+                "Web": "http://en.wikipedia.org/wiki/Yottabyte"
+            },
+            {
+                "Name": "Zettabayt",
+                "Coefficient": 8.470329e-22,
+                "Abbreviation": "ZB",
+                "Web": "http://en.wikipedia.org/wiki/Zettabyte"
+            }
+        ]
+    },
+    {
+        "Katagori Adi": "Elektrik Akimi",
+        "Birimler": [
+            {
+                "Name": "Amper",
+                "Coefficient": 1,
+                "Abbreviation": "A",
+                "Info": "Amper (sembolu A), elektrikte akim siddeti birimidir. Birim zamanda gecen elektrik yuku miktarina elektrik akiminin siddeti denir. Bir iletkenin belli bir kesitinden saniyede bir Coulomb elektrik yuku gecerse, akim siddeti 1 A olur.",
+                "Web": "http://tr.wikipedia.org/wiki/Amper"
+            },
+            {
+                "Name": "Biot",
+                "Coefficient": 0.1,
+                "Abbreviation": "Bi",
+                "Web": "http://en.wikipedia.org/wiki/Biot%E2%80%93Savart_law"
+            },
+            {
+                "Name": "Coulomb/saniye",
+                "Coefficient": 1,
+                "Abbreviation": "C/s"
+            },
+            {
+                "Name": "Elektromagnetik Akim birimi",
+                "Coefficient": 0.1,
+                "Abbreviation": "cgs",
+                "Web": "http://en.wikipedia.org/wiki/Electromagnetic_unit"
+            },
+            {
+                "Name": "Franklin/saniye",
+                "Coefficient": 2979373795.21572,
+                "Abbreviation": ""
+            },
+            {
+                "Name": "Gauss",
+                "Coefficient": 2979373795.21572,
+                "Abbreviation": "G",
+                "Web": "http://en.wikipedia.org/wiki/Gauss_(unit)"
+            },
+            {
+                "Name": "Gigaamper",
+                "Coefficient": 1e-9,
+                "Abbreviation": "GA",
+                "Web": "http://en.wikipedia.org/wiki/Gigaampere"
+            },
+            {
+                "Name": "Gilbert",
+                "Coefficient": 1.25663705426581,
+                "Abbreviation": ""
+            },
+            {
+                "Name": "Kiloamper",
+                "Coefficient": 0.001,
+                "Abbreviation": "kA",
+                "Web": "http://en.wikipedia.org/wiki/Kiloampere"
+            },
+            {
+                "Name": "Megaamper",
+                "Coefficient": 0.000001,
+                "Abbreviation": "MA",
+                "Web": "http://en.wikipedia.org/wiki/Kiloampere"
+            },
+            {
+                "Name": "Mikroamper",
+                "Coefficient": 1000000,
+                "Abbreviation": "µA",
+                "Web": "http://en.wikipedia.org/wiki/Kiloampere"
+            },
+            {
+                "Name": "Miliamper",
+                "Coefficient": 1000,
+                "Abbreviation": "mA",
+                "Web": "http://en.wikipedia.org/wiki/Kiloampere"
+            },
+            {
+                "Name": "Nanoamper",
+                "Coefficient": 1000000000,
+                "Abbreviation": "nA",
+                "Web": "http://en.wikipedia.org/wiki/Kiloampere"
+            },
+            {
+                "Name": "Picoamper",
+                "Coefficient": 1000000000000,
+                "Abbreviation": "pA",
+                "Web": "http://en.wikipedia.org/wiki/Kiloampere"
+            },
+            {
+                "Name": "Siemensvolt",
+                "Coefficient": 1,
+                "Abbreviation": "SV"
+            },
+            {
+                "Name": "Statamper",
+                "Coefficient": 2997924536.84314,
+                "Abbreviation": ""
+            },
+            {
+                "Name": "Teraamper",
+                "Coefficient": 1e-12,
+                "Abbreviation": "TA"
+            },
+            {
+                "Name": "Volt/Ohm",
+                "Coefficient": 1,
+                "Abbreviation": "V/Ω"
+            },
+            {
+                "Name": "Watt/Volt",
+                "Coefficient": 1,
+                "Abbreviation": "W/V"
+            },
+            {
+                "Name": "Weber/Henry",
+                "Coefficient": 1,
+                "Abbreviation": "Wb/H"
+            }
+        ]
+    },
+    {
+        "Katagori Adi": "Enerji",
+        "Birimler": [
+            {
+                "Name": "Btu",
+                "Coefficient": 1,
+                "Abbreviation": "BTU",
+                "Web": "http://en.wikipedia.org/wiki/BTU"
+            },
+            {
+                "Name": "Erg",
+                "Coefficient": 10550558500,
+                "Abbreviation": "erg",
+                "Web": "http://en.wikipedia.org/wiki/Erg"
+            },
+            {
+                "Name": "ElektronVolt",
+                "Coefficient": 6.58514136877889e+21,
+                "Abbreviation": "eV",
+                "Web": "http://en.wikipedia.org/wiki/Electron_volt"
+            },
+            {
+                "Name": "GigaJul",
+                "Coefficient": 0.00000105505585,
+                "Abbreviation": "GJ",
+                "Web": "http://en.wikipedia.org/wiki/Gigajoule#Gigajoule"
+            },
+            {
+                "Name": "Gigakalori",
+                "Coefficient": 2.51995760485335e-7,
+                "Abbreviation": "GCal",
+                "Web": "http://en.wikipedia.org/wiki/Gigacalorie"
+            },
+            {
+                "Name": "Jul(Joule)",
+                "Coefficient": 1055.05585,
+                "Abbreviation": "J",
+                "Web": "http://en.wikipedia.org/wiki/Joule"
+            },
+            {
+                "Name": "Kalori",
+                "Coefficient": 252,
+                "Abbreviation": "cal",
+                "Web": "http://en.wikipedia.org/wiki/Calorie"
+            },
+            {
+                "Name": "KiloJul",
+                "Coefficient": 1.05505585,
+                "Abbreviation": "kJ",
+                "Web": "http://en.wikipedia.org/wiki/Kilojoule#Kilojoule"
+            },
+            {
+                "Name": "Kilokalori",
+                "Coefficient": 0.251995760485335,
+                "Abbreviation": "kcal",
+                "Web": "http://en.wikipedia.org/wiki/Calorie"
+            },
+            {
+                "Name": "Kilowatt saat",
+                "Coefficient": 0.000293071069444444,
+                "Abbreviation": "kwh",
+                "Web": "http://en.wikipedia.org/wiki/Kilowatt_hour"
+            },
+            {
+                "Name": "MegaJul_(Megajoule)",
+                "Coefficient": 0.00105505585,
+                "Abbreviation": "MJ",
+                "Web": "http://en.wikipedia.org/wiki/Megajoule#Megajoule"
+            },
+            {
+                "Name": "MikroJul_(MikroJoule)",
+                "Coefficient": 1055055850,
+                "Abbreviation": "TB",
+                "Web": "http://en.wikipedia.org/wiki/Microjoule"
+            },
+            {
+                "Name": "MiliJul_(MiliJoule)",
+                "Coefficient": 1055055.85,
+                "Abbreviation": "mJ",
+                "Web": "http://en.wikipedia.org/wiki/Microjoule"
+            },
+            {
+                "Name": "NanoJul_(NanoJoule)",
+                "Coefficient": 1055055850000,
+                "Abbreviation": "_",
+                "Web": "http://en.wikipedia.org/wiki/Nanojoule#Nanojoule"
+            },
+            {
+                "Name": "Ton_Equivalent_Petroleum",
+                "Coefficient": 2.51995760485335e-8,
+                "Abbreviation": "TEP",
+                "Web": "http://en.wikipedia.org/wiki/Ton_petroleum_equivalent"
+            },
+            {
+                "Name": "Therm",
+                "Coefficient": 0.00001,
+                "Abbreviation": "th",
+                "Web": "http://en.wikipedia.org/wiki/Therm"
+            },
+            {
+                "Name": "Watt saat",
+                "Coefficient": 0.293071069444444,
+                "Abbreviation": "wh",
+                "Web": "http://en.wikipedia.org/wiki/Watt_hour"
+            }
+        ]
+    },
+    {
+        "Katagori Adi": "Frekans",
+        "Birimler": [
+            {
+                "Name": "1/Saniye",
+                "Coefficient": 1,
+                "Abbreviation": "1/s"
+            },
+            {
+                "Name": "Derece/Saat",
+                "Coefficient": 1296000,
+                "Abbreviation": ""
+            },
+            {
+                "Name": "Derece/Dakika",
+                "Coefficient": 21600.1382408847,
+                "Abbreviation": ""
+            },
+            {
+                "Name": "Derece/Saniye",
+                "Coefficient": 360,
+                "Abbreviation": ""
+            },
+            {
+                "Name": "Dongu/Saat",
+                "Coefficient": 3600,
+                "Abbreviation": ""
+            },
+            {
+                "Name": "Dongu/Dakika",
+                "Coefficient": 60,
+                "Abbreviation": ""
+            },
+            {
+                "Name": "Dongu/Saniye",
+                "Coefficient": 1,
+                "Abbreviation": ""
+            },
+            {
+                "Name": "Gigahertz",
+                "Coefficient": 1e-9,
+                "Abbreviation": "GHz",
+                "Web": "http://en.wikipedia.org/wiki/Gigahertz"
+            },
+            {
+                "Name": "Hertz",
+                "Coefficient": 1,
+                "Abbreviation": "Hz",
+                "Web": "http://en.wikipedia.org/wiki/Hertz"
+            },
+            {
+                "Name": "Kilohertz",
+                "Coefficient": 0.001,
+                "Abbreviation": "kHz",
+                "Web": "http://en.wikipedia.org/wiki/Kilohertz"
+            },
+            {
+                "Name": "Megahertz",
+                "Coefficient": 0.000001,
+                "Abbreviation": "MHz",
+                "Web": "http://en.wikipedia.org/wiki/Megahertz"
+            },
+            {
+                "Name": "Milihertz",
+                "Coefficient": 1000,
+                "Abbreviation": "mHz",
+                "Web": "http://en.wikipedia.org/wiki/Millihertz#SI_multiples"
+            },
+            {
+                "Name": "Radyan/Saat",
+                "Coefficient": 22619.3168966297,
+                "Abbreviation": ""
+            },
+            {
+                "Name": "Radyan/Dakika",
+                "Coefficient": 376.991173128672,
+                "Abbreviation": ""
+            },
+            {
+                "Name": "Radyan/Saniye",
+                "Coefficient": 6.28318531080747,
+                "Abbreviation": ""
+            },
+            {
+                "Name": "RPM(RevolutionsPerMinute)",
+                "Coefficient": 60,
+                "Abbreviation": "rpm",
+                "Web": "http://en.wikipedia.org/wiki/Revolutions_per_minute"
+            },
+            {
+                "Name": "Terahertz",
+                "Coefficient": 1e-12,
+                "Abbreviation": "THz",
+                "Web": "http://en.wikipedia.org/wiki/Millihertz#SI_multiples"
+            }
+        ]
+    },
+    {
+        "Katagori Adi": "Guc",
+        "Birimler": [
+            {
+                "Name": "Beygir",
+                "Coefficient": 1,
+                "Abbreviation": "hp",
+                "Web": "http://en.wikipedia.org/wiki/Horsepower"
+            },
+            {
+                "Name": "BTU/saat",
+                "Coefficient": 2544.43321682468,
+                "Abbreviation": "Btu/h"
+            },
+            {
+                "Name": "BTU/saniye",
+                "Coefficient": 0.706787004670842,
+                "Abbreviation": "Btu/s"
+            },
+            {
+                "Name": "Erg/saniye",
+                "Coefficient": 7456998700,
+                "Abbreviation": "erg/s"
+            },
+            {
+                "Name": "Footpound/saniye",
+                "Coefficient": 745699870,
+                "Abbreviation": "ft.lbf/s"
+            },
+            {
+                "Name": "GigaWatt",
+                "Coefficient": 7.4569987e-7,
+                "Abbreviation": "GW"
+            },
+            {
+                "Name": "Kalori/saniye",
+                "Coefficient": 178.107354065157,
+                "Abbreviation": "cal/sec"
+            },
+            {
+                "Name": "Kilokalori/saat",
+                "Coefficient": 641.186474634566,
+                "Abbreviation": "kcal/hr"
+            },
+            {
+                "Name": "Kilokalori/saniye",
+                "Coefficient": 0.178107354065157,
+                "Abbreviation": "kcal/sec"
+            },
+            {
+                "Name": "KiloWatt",
+                "Coefficient": 0.74569987,
+                "Abbreviation": "kW",
+                "Web": "http://en.wikipedia.org/wiki/Kilowatt#Kilowatt"
+            },
+            {
+                "Name": "MegaWatt",
+                "Coefficient": 0.00074569987,
+                "Abbreviation": "MW",
+                "Web": "http://en.wikipedia.org/wiki/Kilowatt#Kilowatt"
+            },
+            {
+                "Name": "MikroWatt",
+                "Coefficient": 745699870,
+                "Abbreviation": "µW",
+                "Web": "http://en.wikipedia.org/wiki/Kilowatt#Kilowatt"
+            },
+            {
+                "Name": "MiliWatt",
+                "Coefficient": 745699.87,
+                "Abbreviation": "mW",
+                "Web": "http://en.wikipedia.org/wiki/Kilowatt#Kilowatt"
+            },
+            {
+                "Name": "NanoWatt",
+                "Coefficient": 745699870000,
+                "Abbreviation": "nW",
+                "Web": "http://en.wikipedia.org/wiki/Kilowatt#Kilowatt"
+            },
+            {
+                "Name": "PS(pferdestarke)",
+                "Coefficient": 1.01386963522289,
+                "Abbreviation": "ps",
+                "Web": "http://en.wikipedia.org/wiki/Pferdestarke#PS"
+            },
+            {
+                "Name": "Ton_(Sogutma_Birimi)",
+                "Coefficient": 0.212036131145027,
+                "Abbreviation": ""
+            },
+            {
+                "Name": "Watt",
+                "Coefficient": 745.69987,
+                "Abbreviation": "W",
+                "Web": "http://en.wikipedia.org/wiki/Kilowatt#Kilowatt"
+            }
+        ]
+    },
+    {
+        "Katagori Adi": "Hacim",
+        "Birimler": [
+            {
+                "Name": "Attolitre",
+                "Coefficient": 1e+21,
+                "Abbreviation": "al",
+                "Web": "http://en.wikipedia.org/wiki/Attolitre"
+            },
+            {
+                "Name": "Dekalitre",
+                "Coefficient": 100,
+                "Abbreviation": "dal",
+                "Web": "http://en.wikipedia.org/wiki/Attolitre"
+            },
+            {
+                "Name": "Dekametrekup",
+                "Coefficient": 0.001,
+                "Abbreviation": "dam3",
+                "Web": "http://en.wikipedia.org/wiki/Cubic_decametre"
+            },
+            {
+                "Name": "Dekaster",
+                "Coefficient": 0.1,
+                "Abbreviation": "dagst",
+                "Web": "http://en.wikipedia.org/wiki/Stere"
+            },
+            {
+                "Name": "Desilitre",
+                "Coefficient": 10000,
+                "Abbreviation": "dl",
+                "Web": "http://en.wikipedia.org/wiki/Decilitre#SI_prefixes_applied_to_the_litre"
+            },
+            {
+                "Name": "Desimetrekup",
+                "Coefficient": 1000,
+                "Abbreviation": "dm3",
+                "Web": "http://en.wikipedia.org/wiki/Cubic_decimetre"
+            },
+            {
+                "Name": "Desister",
+                "Coefficient": 10,
+                "Abbreviation": "dst",
+                "Web": "http://en.wikipedia.org/wiki/Stere"
+            },
+            {
+                "Name": "Dizyem",
+                "Coefficient": 10000000,
+                "Abbreviation": ""
+            },
+            {
+                "Name": "Dolu (Yarim)",
+                "Coefficient": 54.0540540540541,
+                "Abbreviation": ""
+            },
+            {
+                "Name": "Dunyanin Hacmi",
+                "Coefficient": 9.23361e-22,
+                "Abbreviation": "",
+                "Web": "http://en.wikipedia.org/wiki/Earth"
+            },
+            {
+                "Name": "Exalitre",
+                "Coefficient": 1e-15,
+                "Abbreviation": "EL",
+                "Web": "http://en.wikipedia.org/wiki/Exalitre"
+            },
+            {
+                "Name": "Feetkup(Ayak_kup)",
+                "Coefficient": 35.3146667214886,
+                "Abbreviation": "ft3",
+                "Web": "http://en.wikipedia.org/wiki/Cubic_feet"
+            },
+            {
+                "Name": "Femtolitre",
+                "Coefficient": 1000000000000000000,
+                "Abbreviation": "fl",
+                "Web": "http://en.wikipedia.org/wiki/Femtolitre"
+            },
+            {
+                "Name": "Galon",
+                "Coefficient": 264.172052358148,
+                "Abbreviation": "gal",
+                "Web": "http://en.wikipedia.org/wiki/Gallon"
+            },
+            {
+                "Name": "Gigalitre",
+                "Coefficient": 0.000001,
+                "Abbreviation": "GL",
+                "Web": "http://en.wikipedia.org/wiki/Exalitre"
+            },
+            {
+                "Name": "Gill",
+                "Coefficient": 8453.50567546075,
+                "Abbreviation": "gi",
+                "Web": "http://en.wikipedia.org/wiki/Gill_(unit)"
+            },
+            {
+                "Name": "Hektolitre",
+                "Coefficient": 10,
+                "Abbreviation": "hl",
+                "Web": "http://en.wikipedia.org/wiki/Hektoliter"
+            },
+            {
+                "Name": "Hogshead",
+                "Coefficient": 4.19320718028807,
+                "Abbreviation": "",
+                "Web": "http://en.wikipedia.org/wiki/Hogshead"
+            },
+            {
+                "Name": "Inchkup",
+                "Coefficient": 61023.7440947323,
+                "Abbreviation": "in3",
+                "Web": "http://en.wikipedia.org/wiki/Cubic_inch"
+            },
+            {
+                "Name": "Istanbul_Kilesi",
+                "Coefficient": 27.027027027027,
+                "Abbreviation": ""
+            },
+            {
+                "Name": "Kilolitre",
+                "Coefficient": 1,
+                "Abbreviation": "kl",
+                "Web": "http://en.wikipedia.org/wiki/Kilolitre#SI_prefixes_applied_to_the_litre"
+            },
+            {
+                "Name": "Kilometrekup",
+                "Coefficient": 1e-9,
+                "Abbreviation": "km3",
+                "Web": "http://en.wikipedia.org/wiki/Cubic_kilometre"
+            },
+            {
+                "Name": "Litre",
+                "Coefficient": 1000,
+                "Abbreviation": "L",
+                "Web": "http://en.wikipedia.org/wiki/Litre"
+            },
+            {
+                "Name": "Megalitre",
+                "Coefficient": 0.001,
+                "Abbreviation": "ML",
+                "Web": "http://en.wikipedia.org/wiki/Litre"
+            },
+            {
+                "Name": "Metrekup",
+                "Coefficient": 1,
+                "Abbreviation": "m3",
+                "Web": "http://en.wikipedia.org/wiki/Cubic_metre"
+            },
+            {
+                "Name": "Mikrolitre",
+                "Coefficient": 1000000000,
+                "Abbreviation": "µl",
+                "Web": "http://en.wikipedia.org/wiki/Microlitre#SI_prefixes_applied_to_the_litre"
+            },
+            {
+                "Name": "Mililitre",
+                "Coefficient": 1000000,
+                "Abbreviation": "ml",
+                "Web": "http://en.wikipedia.org/wiki/Microlitre#SI_prefixes_applied_to_the_litre"
+            },
+            {
+                "Name": "Milimetrekup",
+                "Coefficient": 1000000000,
+                "Abbreviation": "mm3",
+                "Web": "http://en.wikipedia.org/wiki/Cubic_metre"
+            },
+            {
+                "Name": "Minim",
+                "Coefficient": 16230730.9026473,
+                "Abbreviation": "min",
+                "Web": "http://en.wikipedia.org/wiki/Minim_(unit)"
+            },
+            {
+                "Name": "Nanolitre",
+                "Coefficient": 1000000000000,
+                "Abbreviation": "nL",
+                "Web": "http://en.wikipedia.org/wiki/Nanoliter"
+            },
+            {
+                "Name": "Ons",
+                "Coefficient": 33814.022701843,
+                "Abbreviation": "oz",
+                "Web": "http://en.wikipedia.org/wiki/Ounce"
+            },
+            {
+                "Name": "Peck",
+                "Coefficient": 7.09439831460144,
+                "Abbreviation": "pk",
+                "Web": "http://en.wikipedia.org/wiki/Peck"
+            },
+            {
+                "Name": "Petalitre",
+                "Coefficient": 1e-12,
+                "Abbreviation": "PL",
+                "Web": "http://en.wikipedia.org/wiki/Petalitre"
+            },
+            {
+                "Name": "Pikolitre",
+                "Coefficient": 1000000000000000,
+                "Abbreviation": "pL",
+                "Web": "http://en.wikipedia.org/wiki/Petalitre"
+            },
+            {
+                "Name": "Pint",
+                "Coefficient": 2113.37641886519,
+                "Abbreviation": "pt",
+                "Web": "http://en.wikipedia.org/wiki/Pint"
+            },
+            {
+                "Name": "Quart",
+                "Coefficient": 1056.68820943259,
+                "Abbreviation": "qt",
+                "Web": "http://en.wikipedia.org/wiki/Quart"
+            },
+            {
+                "Name": "Santilitre",
+                "Coefficient": 100000,
+                "Abbreviation": "cl",
+                "Web": "http://en.wikipedia.org/wiki/Centilitre"
+            },
+            {
+                "Name": "Santimetrekup",
+                "Coefficient": 1000000,
+                "Abbreviation": "cm3",
+                "Web": "http://en.wikipedia.org/wiki/Cubic_centimeter"
+            },
+            {
+                "Name": "Sinik",
+                "Coefficient": 108.108108108108,
+                "Abbreviation": ""
+            },
+            {
+                "Name": "Ster",
+                "Coefficient": 1,
+                "Abbreviation": ""
+            },
+            {
+                "Name": "Teralitre",
+                "Coefficient": 1e-9,
+                "Abbreviation": "TI",
+                "Web": "http://en.wikipedia.org/wiki/Teralitre"
+            },
+            {
+                "Name": "Yardkup",
+                "Coefficient": 1.30795061931439,
+                "Abbreviation": "yd3",
+                "Web": "http://en.wikipedia.org/wiki/Cubic_yard"
+            }
+        ]
+    },
+    {
+        "Katagori Adi": "Hiz",
+        "Birimler": [
+            {
+                "Name": "Deniz_Mili/Saat",
+                "Coefficient": 1.94384449411995,
+                "Abbreviation": "kn"
+            },
+            {
+                "Name": "Feet/Saniye",
+                "Coefficient": 3.28083989501312,
+                "Abbreviation": "ft/sec"
+            },
+            {
+                "Name": "Isik_Hizi",
+                "Coefficient": 3.33564095198152e-9,
+                "Abbreviation": "c",
+                "Web": "http://en.wikipedia.org/wiki/Light_speed"
+            },
+            {
+                "Name": "Kilometre/Dakika",
+                "Coefficient": 0.06,
+                "Abbreviation": "km/min"
+            },
+            {
+                "Name": "Kilometre/Saat",
+                "Coefficient": 3.600000000,
+                "Abbreviation": "km/h,kmh"
+            },
+            {
+                "Name": "Kilometre/Saniye",
+                "Coefficient": 0.001,
+                "Abbreviation": "km/sec"
+            },
+            {
+                "Name": "Knot",
+                "Coefficient": 1,
+                "Abbreviation": "kn",
+                "Web": "http://en.wikipedia.org/wiki/Knot_(unit)"
+            },
+            {
+                "Name": "Mach",
+                "Coefficient": 0.00291545189504373,
+                "Abbreviation": "M"
+            },
+            {
+                "Name": "Metre/Dakika",
+                "Coefficient": 60.000000000,
+                "Abbreviation": "m/min"
+            },
+            {
+                "Name": "Mil/Saat",
+                "Coefficient": 2.2369362920544,
+                "Abbreviation": "mph"
+            },
+            {
+                "Name": "Metre/Saniye",
+                "Coefficient": 1,
+                "Abbreviation": "m/sec"
+            },
+            {
+                "Name": "Santimetre/Saniye",
+                "Coefficient": 100,
+                "Abbreviation": "cm/sec"
+            },
+            {
+                "Name": "Ses Hizi",
+                "Coefficient": 0.00291545189504373,
+                "Abbreviation": "",
+                "Web": "http://en.wikipedia.org/wiki/Sound_speed"
+            },
+            {
+                "Name": "Yard/Saniye",
+                "Coefficient": 1.09361329833771,
+                "Abbreviation": "yd/sec"
+            }
+        ]
+    },
+    {
+        "Katagori Adi": "Ivme",
+        "Birimler": [
+            {
+                "Name": "Desimetre/Saniyekare",
+                "Coefficient": 10,
+                "Abbreviation": "dm/s2"
+            },
+            {
+                "Name": "Dekametre/Saniyekare",
+                "Coefficient": 0.1,
+                "Abbreviation": "dam/s2"
+            },
+            {
+                "Name": "Feet/Saniyekare",
+                "Coefficient": 3.28083989501312,
+                "Abbreviation": "ft/s2"
+            },
+            {
+                "Name": "Galileo",
+                "Coefficient": 100,
+                "Abbreviation": "Gal",
+                "Web": "http://en.wikipedia.org/wiki/Galileo_(unit)"
+            },
+            {
+                "Name": "Gal",
+                "Coefficient": 100,
+                "Abbreviation": "gal",
+                "Web": "http://en.wikipedia.org/wiki/Galileo_(unit)"
+            },
+            {
+                "Name": "Grav",
+                "Coefficient": 0.101971621297793,
+                "Abbreviation": ""
+            },
+            {
+                "Name": "Hektometre/Saniyekare",
+                "Coefficient": 0.01,
+                "Abbreviation": "hm/s2"
+            },
+            {
+                "Name": "Inc/Saniyekare",
+                "Coefficient": 39.3700787401575,
+                "Abbreviation": "in/s2"
+            },
+            {
+                "Name": "Kilometre/Saatkare",
+                "Coefficient": 3.6,
+                "Abbreviation": "km/h2"
+            },
+            {
+                "Name": "Kilometre/Saniyekare",
+                "Coefficient": 0.001,
+                "Abbreviation": "km/s2"
+            },
+            {
+                "Name": "Metre/Saniyekare",
+                "Coefficient": 1,
+                "Abbreviation": "m/s2"
+            },
+            {
+                "Name": "Mil/Saat.dakika",
+                "Coefficient": 134.215577059874,
+                "Abbreviation": ""
+            },
+            {
+                "Name": "Mil/Saat.saniye",
+                "Coefficient": 2.2369362920544,
+                "Abbreviation": ""
+            },
+            {
+                "Name": "Mil/Saniyekare",
+                "Coefficient": 0.000621386636707546,
+                "Abbreviation": "mile/s2"
+            },
+            {
+                "Name": "Miligal",
+                "Coefficient": 100000,
+                "Abbreviation": "mGal",
+                "Web": "http://en.wikipedia.org/wiki/Milligal"
+            },
+            {
+                "Name": "Milimetre/Saniyekare",
+                "Coefficient": 1000,
+                "Abbreviation": "mm/s2"
+            },
+            {
+                "Name": "Santimetre/Saniyekare",
+                "Coefficient": 100,
+                "Abbreviation": "cm/s2"
+            }
+        ]
+    },
+    {
+        "Katagori Adi": "Elektrik Sigasi(Kapasitans)",
+        "Birimler": [
+            {
+                "Name": "Abfarad",
+                "Coefficient": 1e-9,
+                "Abbreviation": "abF",
+                "Web": "http://en.wikipedia.org/wiki/Abfarad#Abfarads_in_medicine"
+            },
+            {
+                "Name": "Amper saniye/volt",
+                "Coefficient": 1,
+                "Abbreviation": ""
+            },
+            {
+                "Name": "Coulomb/volt",
+                "Coefficient": 1,
+                "Abbreviation": "C/V"
+            },
+            {
+                "Name": "Elektromagnetik kapasitans birimi",
+                "Coefficient": 1e-9,
+                "Abbreviation": ""
+            },
+            {
+                "Name": "Elektrostatikkapasitansbirimi",
+                "Coefficient": 1,
+                "Abbreviation": ""
+            },
+            {
+                "Name": "Farad",
+                "Coefficient": 1,
+                "Abbreviation": "F",
+                "Web": "http://en.wikipedia.org/wiki/Abfarad#Abfarads_in_medicine"
+            },
+            {
+                "Name": "Gigafarad",
+                "Coefficient": 1e-9,
+                "Abbreviation": "GF",
+                "Web": "http://en.wikipedia.org/wiki/Abfarad#Abfarads_in_medicine"
+            },
+            {
+                "Name": "Jar",
+                "Coefficient": 0.000009,
+                "Abbreviation": "jar",
+                "Web": "http://en.wikipedia.org/wiki/Jar_(unit)"
+            },
+            {
+                "Name": "Kilofarad",
+                "Coefficient": 0.001,
+                "Abbreviation": "kF",
+                "Web": "http://en.wikipedia.org/wiki/Abfarad#Abfarads_in_medicine"
+            },
+            {
+                "Name": "Megafarad",
+                "Coefficient": 0.000001,
+                "Abbreviation": "MF",
+                "Web": "http://en.wikipedia.org/wiki/Megafarad"
+            },
+            {
+                "Name": "Mikrofarad",
+                "Coefficient": 1000000,
+                "Abbreviation": "μF",
+                "Web": "http://en.wikipedia.org/wiki/Abfarad#Abfarads_in_medicine"
+            },
+            {
+                "Name": "Milifarad",
+                "Coefficient": 1000,
+                "Abbreviation": "mF",
+                "Web": "http://en.wikipedia.org/wiki/Abfarad#Abfarads_in_medicine"
+            },
+            {
+                "Name": "Nanofarad",
+                "Coefficient": 1000000000,
+                "Abbreviation": "nF",
+                "Web": "http://en.wikipedia.org/wiki/Abfarad#Abfarads_in_medicine"
+            },
+            {
+                "Name": "Pikofarad",
+                "Coefficient": 1000000000000,
+                "Abbreviation": "pF",
+                "Web": "http://en.wikipedia.org/wiki/Abfarad#Abfarads_in_medicine"
+            },
+            {
+                "Name": "Saniye/ohm",
+                "Coefficient": 1,
+                "Abbreviation": ""
+            },
+            {
+                "Name": "Statfarad",
+                "Coefficient": 0.00898755178736816,
+                "Abbreviation": "statF",
+                "Web": "http://en.wikipedia.org/wiki/Abfarad#Abfarads_in_medicine"
+            },
+            {
+                "Name": "Terafarad",
+                "Coefficient": 1e-12,
+                "Abbreviation": "TF",
+                "Web": "http://en.wikipedia.org/wiki/Terafarad"
+            }
+        ]
+    },
+    {
+        "Katagori Adi": "Kuvvet",
+        "Birimler": [
+            {
+                "Name": "Attonewton",
+                "Coefficient": 1000000000000000000,
+                "Abbreviation": "aN"
+            },
+            {
+                "Name": "Dekagramkuvvet",
+                "Coefficient": 10.1971621297793,
+                "Abbreviation": "dagf"
+            },
+            {
+                "Name": "Dekanewton",
+                "Coefficient": 0.1,
+                "Abbreviation": "daN"
+            },
+            {
+                "Name": "Desigramkuvvet",
+                "Coefficient": 1019.71621297793,
+                "Abbreviation": "dgf"
+            },
+            {
+                "Name": "Desinewton",
+                "Coefficient": 10,
+                "Abbreviation": "dN"
+            },
+            {
+                "Name": "Dyne",
+                "Coefficient": 100000,
+                "Abbreviation": "dyn",
+                "Web": "http://en.wikipedia.org/wiki/Dyne"
+            },
+            {
+                "Name": "Exanewton",
+                "Coefficient": 1e-18,
+                "Abbreviation": "EN"
+            },
+            {
+                "Name": "Femtonewton",
+                "Coefficient": 1000000000000000,
+                "Abbreviation": "fN"
+            },
+            {
+                "Name": "GramKuvvet",
+                "Coefficient": 101.971621297793,
+                "Abbreviation": "gf",
+                "Web": "http://en.wikipedia.org/wiki/Gram-force"
+            },
+            {
+                "Name": "Hektonewton",
+                "Coefficient": 0.01,
+                "Abbreviation": "hN"
+            },
+            {
+                "Name": "Joule/metre",
+                "Coefficient": 1,
+                "Abbreviation": "J/m"
+            },
+            {
+                "Name": "KilogramKuvvet",
+                "Coefficient": 0.101971621297793,
+                "Abbreviation": "kgf",
+                "Web": "http://en.wikipedia.org/wiki/Kilogram-force"
+            },
+            {
+                "Name": "KiloNewton",
+                "Coefficient": 0.001,
+                "Abbreviation": "kN",
+                "Web": "http://en.wikipedia.org/wiki/Kilonewton"
+            },
+            {
+                "Name": "Kilopond",
+                "Coefficient": 0.101971621297793,
+                "Abbreviation": "kip",
+                "Web": "http://en.wikipedia.org/wiki/Kilopound"
+            },
+            {
+                "Name": "Meganewton",
+                "Coefficient": 0.000001,
+                "Abbreviation": "MN"
+            },
+            {
+                "Name": "Megapond",
+                "Coefficient": 0.000101971621297793,
+                "Abbreviation": "Mp",
+                "Web": "http://en.wikipedia.org/wiki/Pond_(unit)"
+            },
+            {
+                "Name": "Mikronewton",
+                "Coefficient": 1000000,
+                "Abbreviation": "μN"
+            },
+            {
+                "Name": "MiliNewton",
+                "Coefficient": 1000,
+                "Abbreviation": "mN"
+            },
+            {
+                "Name": "Nanonewton",
+                "Coefficient": 1000000000,
+                "Abbreviation": "nN"
+            },
+            {
+                "Name": "Newton",
+                "Coefficient": 1,
+                "Abbreviation": "N",
+                "Web": "http://en.wikipedia.org/wiki/Newton"
+            },
+            {
+                "Name": "Onskuvvet",
+                "Coefficient": 3.59694310193539,
+                "Abbreviation": "lbf",
+                "Web": "http://en.wikipedia.org/wiki/Pound_(force)"
+            },
+            {
+                "Name": "Petanewton",
+                "Coefficient": 1e-15,
+                "Abbreviation": "PT"
+            },
+            {
+                "Name": "Pikonewton",
+                "Coefficient": 1000000000000,
+                "Abbreviation": "pN"
+            },
+            {
+                "Name": "Pond",
+                "Coefficient": 101.971621297793,
+                "Abbreviation": "p",
+                "Web": "http://en.wikipedia.org/wiki/Pond_(unit)"
+            },
+            {
+                "Name": "Poundal",
+                "Coefficient": 7.23301408014686,
+                "Abbreviation": "pdl",
+                "Web": "http://en.wikipedia.org/wiki/Poundal"
+            },
+            {
+                "Name": "PoundKuvvet",
+                "Coefficient": 0.224808943870962,
+                "Abbreviation": "lbl",
+                "Web": "http://en.wikipedia.org/wiki/Pound_(force)"
+            },
+            {
+                "Name": "Santinewton",
+                "Coefficient": 100,
+                "Abbreviation": "cN"
+            },
+            {
+                "Name": "Sthene",
+                "Coefficient": 0.001,
+                "Abbreviation": "st"
+            },
+            {
+                "Name": "Teranewton",
+                "Coefficient": 1e-12,
+                "Abbreviation": "TN"
+            },
+            {
+                "Name": "TonKuvvet",
+                "Coefficient": 0.000101971621297793,
+                "Abbreviation": "tf",
+                "Web": "http://en.wikipedia.org/wiki/Ton-force"
+            },
+            {
+                "Name": "Yoctonewton",
+                "Coefficient": 1e+24,
+                "Abbreviation": "YN"
+            },
+            {
+                "Name": "Yottanewton",
+                "Coefficient": 1e-24,
+                "Abbreviation": "yN"
+            },
+            {
+                "Name": "Zeptonewton",
+                "Coefficient": 1e+21,
+                "Abbreviation": "ZN"
+            },
+            {
+                "Name": "Zettanewton",
+                "Coefficient": 1e-21,
+                "Abbreviation": "zN"
+            }
+        ]
+    },
+    {
+        "Katagori Adi": "Isiksal Aydinlatma",
+        "Birimler": [
+            {
+                "Name": "Feetkandela",
+                "Coefficient": 10.7642626480086,
+                "Abbreviation": "fc",
+                "Web": "http://en.wikipedia.org/wiki/Foot-candle"
+            },
+            {
+                "Name": "Flame",
+                "Coefficient": 43.0556416668389,
+                "Abbreviation": ""
+            },
+            {
+                "Name": "Kilolux",
+                "Coefficient": 1000,
+                "Abbreviation": "klx",
+                "Web": "http://en.wikipedia.org/wiki/Lux"
+            },
+            {
+                "Name": "Lumen/santimetrekare",
+                "Coefficient": 10000,
+                "Abbreviation": "lm/cm2"
+            },
+            {
+                "Name": "Lumen/footkare",
+                "Coefficient": 10.7642626480086,
+                "Abbreviation": "lm/ft2"
+            },
+            {
+                "Name": "Lumen/inchkare",
+                "Coefficient": 1550.38759689922,
+                "Abbreviation": "lm/in2"
+            },
+            {
+                "Name": "Lumen/metrekare",
+                "Coefficient": 1,
+                "Abbreviation": "lm/m2"
+            },
+            {
+                "Name": "Lux",
+                "Coefficient": 1,
+                "Abbreviation": "lx",
+                "Web": "http://en.wikipedia.org/wiki/Lux"
+            },
+            {
+                "Name": "Metrekandela",
+                "Coefficient": 1,
+                "Abbreviation": "",
+                "Web": "http://en.wikipedia.org/wiki/Metre-candle#Lux_versus_footcandle"
+            },
+            {
+                "Name": "Milithot",
+                "Coefficient": 10,
+                "Abbreviation": ""
+            },
+            {
+                "Name": "Nox",
+                "Coefficient": 0.001,
+                "Abbreviation": "nx",
+                "Web": "http://en.wikipedia.org/wiki/Nox_(unit)"
+            },
+            {
+                "Name": "Phot",
+                "Coefficient": 10000,
+                "Abbreviation": "ph",
+                "Web": "http://en.wikipedia.org/wiki/Phot"
+            },
+            {
+                "Name": "Santimetrekandela",
+                "Coefficient": 10000,
+                "Abbreviation": "cmcd"
+            },
+            {
+                "Name": "Watt/santimetrekare",
+                "Coefficient": 6849315.06849315,
+                "Abbreviation": "W/cm2"
+            }
+        ]
+    },
+    {
+        "Katagori Adi": "Isiksal Parlaklik",
+        "Birimler": [
+            {
+                "Name": "Apostilb",
+                "Coefficient": 1,
+                "Abbreviation": "asb",
+                "Web": "http://en.wikipedia.org/wiki/Apostilb"
+            },
+            {
+                "Name": "Blondel",
+                "Coefficient": 1,
+                "Abbreviation": "asb",
+                "Web": "http://en.wikipedia.org/wiki/Blondel"
+            },
+            {
+                "Name": "Bril",
+                "Coefficient": 10000000,
+                "Abbreviation": "",
+                "Web": "http://en.wikipedia.org/wiki/Bril_(unit)"
+            },
+            {
+                "Name": "Footlambert",
+                "Coefficient": 0.0929368029739777,
+                "Abbreviation": "fL",
+                "Web": "http://en.wikipedia.org/wiki/Footlambert"
+            },
+            {
+                "Name": "Kandela/footkare",
+                "Coefficient": 0.029585798816568,
+                "Abbreviation": "cd/m2",
+                "Web": "http://en.wikipedia.org/wiki/Candela_per_square_metre"
+            },
+            {
+                "Name": "Kandela/inchkare",
+                "Coefficient": 0.000205380981721093,
+                "Abbreviation": "cd/in2"
+            },
+            {
+                "Name": "Kandela/metrekare",
+                "Coefficient": 0.317965023847377,
+                "Abbreviation": "cd/m2"
+            },
+            {
+                "Name": "Kandela/santimetrekare",
+                "Coefficient": 0.0000318319274232055,
+                "Abbreviation": "cd/cm2"
+            },
+            {
+                "Name": "Kilokandela/footkare",
+                "Coefficient": 0.00002957267484844,
+                "Abbreviation": "kcd/ft2"
+            },
+            {
+                "Name": "Kilokandela/inchkare",
+                "Coefficient": 2.05361158401222e-7,
+                "Abbreviation": "kcd/in2"
+            },
+            {
+                "Name": "Kilokandela/metrekare",
+                "Coefficient": 0.000318319274232055,
+                "Abbreviation": "kcd/m2"
+            },
+            {
+                "Name": "Kilokandela/santimetrekare",
+                "Coefficient": 3.18310155048876e-8,
+                "Abbreviation": "kcd/cm2"
+            },
+            {
+                "Name": "Lambert",
+                "Coefficient": 0.0001,
+                "Abbreviation": "L,Lb",
+                "Web": "http://en.wikipedia.org/wiki/Lambert_(unit)"
+            },
+            {
+                "Name": "Lux",
+                "Coefficient": 1.00000000062832,
+                "Abbreviation": "lx",
+                "Web": "http://en.wikipedia.org/wiki/Lux"
+            },
+            {
+                "Name": "Lumen/metrekare steradian",
+                "Coefficient": 0.318310155048877,
+                "Abbreviation": ""
+            },
+            {
+                "Name": "Lumen/santimetrekare steradian",
+                "Coefficient": 0.0000318309886142228,
+                "Abbreviation": ""
+            },
+            {
+                "Name": "Lumen/feetkare steradian",
+                "Coefficient": 0.0295719577404895,
+                "Abbreviation": ""
+            },
+            {
+                "Name": "Mililambert",
+                "Coefficient": 0.1,
+                "Abbreviation": "mL,mLb",
+                "Web": "http://en.wikipedia.org/wiki/Lambert_(unit)"
+            },
+            {
+                "Name": "Milinit",
+                "Coefficient": 318.471337579618,
+                "Abbreviation": "mnt",
+                "Web": "http://en.wikipedia.org/wiki/Nit_(unit)"
+            },
+            {
+                "Name": "Nit",
+                "Coefficient": 0.317965023847377,
+                "Abbreviation": "nt",
+                "Web": "http://en.wikipedia.org/wiki/Nit_(unit)"
+            },
+            {
+                "Name": "Phot",
+                "Coefficient": 0.0001,
+                "Abbreviation": "ph",
+                "Web": "http://en.wikipedia.org/wiki/Phot"
+            },
+            {
+                "Name": "Skot",
+                "Coefficient": 0.0000318319274232055,
+                "Abbreviation": "sk",
+                "Web": "http://en.wikipedia.org/wiki/Skot_(unit)"
+            },
+            {
+                "Name": "Stilb",
+                "Coefficient": 1000,
+                "Abbreviation": "sb",
+                "Web": "http://en.wikipedia.org/wiki/Stilb_(unit)"
+            },
+            {
+                "Name": "Watt/santimetrekaresteradian",
+                "Coefficient": 4.66046685481355e-8,
+                "Abbreviation": ""
+            }
+        ]
+    },
+    {
+        "Katagori Adi": "Sicaklik",
+        "Birimler": [
+            {
+                "Name": "Celcius",
+                "Coefficient": 1,
+                "Abbreviation": "C",
+                "Web": "http://en.wikipedia.org/wiki/Celcius"
+            },
+            {
+                "Name": "Fahrenhayt",
+                "Coefficient": 1,
+                "Abbreviation": "F",
+                "Web": "http://en.wikipedia.org/wiki/Fahrenheit"
+            },
+            {
+                "Name": "Kelvin",
+                "Coefficient": 1,
+                "Abbreviation": "K",
+                "Web": "http://en.wikipedia.org/wiki/Kelvin"
+            },
+            {
+                "Name": "Santigrat",
+                "Coefficient": 1,
+                "Abbreviation": "C",
+                "Web": "http://en.wikipedia.org/wiki/Centigrade"
+            },
+            {
+                "Name": "Rankine",
+                "Coefficient": 1,
+                "Abbreviation": "R",
+                "Web": "http://en.wikipedia.org/wiki/Conversion_of_units_of_temperature#Rankine"
+            },
+            {
+                "Name": "Reaumur",
+                "Coefficient": 1,
+                "Abbreviation": "Re",
+                "Web": "http://en.wikipedia.org/wiki/Conversion_of_units_of_temperature#R.C3.A9aumur"
+            }
+        ]
+    },
+    {
+        "Katagori Adi": "Takvim cevirme",
+        "Birimler": [
+            {
+                "Name": "Hicri Yil",
+                "Coefficient": 1,
+                "Abbreviation": " ",
+                "Web": "http://tr.wikipedia.org/wiki/Hicr%C3%AE_takvim"
+            },
+            {
+                "Name": "Miladi Yil",
+                "Coefficient": 1,
+                "Abbreviation": " ",
+                "Web": "http://tr.wikipedia.org/wiki/Milad%C3%AE_takvim"
+            }
+        ]
+    },
+    {
+        "Katagori Adi": "Uzunluk",
+        "Birimler": [
+            {
+                "Name": "Adim",
+                "Coefficient": 1.24274238447467,
+                "Abbreviation": "adim",
+                "Web": "http://en.wikipedia.org/wiki/Foot_(length)"
+            },
+            {
+                "Name": "Angstrom",
+                "Coefficient": 10000000000,
+                "Abbreviation": "Å",
+                "Info": "Ångstrom, Isigin dalga boyunu olcmekte kullanilan uzunluk olcu birimidir. Isvecli fizikci Anders Jonas Ångstrom tarafindan tanimlandigindan onun adiyla anilir.Ångstrom birimi kisaca Å olarak gosterilir ve 10-10 m'ye esittir. Diger bir ifadeyle, 1 ångstrom santimetrenin yuz milyonda biridir. 0,1 nanometre veya 100 pikometredir.",
+                "Web": "http://en.wikipedia.org/wiki/Angstrom"
+            },
+            {
+                "Name": "Arsin",
+                "Coefficient": 1.47058823529412,
+                "Abbreviation": "",
+                "Info": "Arsin, Turkiye'de metrenin resmen kabulune kadar kullanilan uzunluk olcusu birimi ve aleti.",
+                "Web": "http://tr.wikipedia.org/wiki/Ar%C5%9F%C4%B1n"
+            },
+            {
+                "Name": "Astronomik_Birim",
+                "Coefficient": 6.6845871226706e-12,
+                "Abbreviation": "au",
+                "Info": "Astronomik birim (Simgesi: AU; Ingilizce: Astronomical Unit), gokbilimde kullanilan bir uzaklik birimi.Bir astronomik birim Gunes'in merkeziyle Dunya'nin merkezi arasindaki uzaklik olan 149,6 milyon km. ya da 92,9 milyon mil'dir. Astronomik birim, evrendeki buyuk uzakliklari belirtmek icin kullanilir.",
+                "Web": "http://en.wikipedia.org/wiki/Astronomical_unit"
+            },
+            {
+                "Name": "Ayak",
+                "Coefficient": 2.63942777205902,
+                "Abbreviation": "",
+                "Web": "http://en.wikipedia.org/wiki/Feet_(unit_of_length)"
+            },
+            {
+                "Name": "Berid",
+                "Coefficient": 0.0000439753737906772,
+                "Abbreviation": "",
+                "Info": " Osmanli Imparatorlugu'nda kullanilagelen, olcu ve tartida devrime kadar Turkiye Cumhuriyeti'nde de kullanilan uzunluk olcu birimleridir.227 metreye denk gelir.",
+                "Web": "http://tr.wikipedia.org/wiki/Osmanl%C4%B1_d%C3%B6neminde_%C3%B6l%C3%A7%C3%BC_birimleri"
+            },
+            {
+                "Name": "Cable",
+                "Coefficient": 0.0431965442764579,
+                "Abbreviation": "",
+                "Web": "http://en.wikipedia.org/wiki/Cable_length"
+            },
+            {
+                "Name": "carsiArsini",
+                "Coefficient": 1.47058823529412,
+                "Abbreviation": "",
+                "Web": "http://tr.wikipedia.org/wiki/Osmanl%C4%B1_d%C3%B6neminde_%C3%B6l%C3%A7%C3%BC_birimleri"
+            },
+            {
+                "Name": "Dekametre",
+                "Coefficient": 0.1,
+                "Abbreviation": "dam",
+                "Web": "http://en.wikipedia.org/wiki/Decametre"
+            },
+            {
+                "Name": "Desimetre",
+                "Coefficient": 10,
+                "Abbreviation": "dm",
+                "Info": "Deniz mil (Nautical mile)´inin uluslararasi resmi bir kisaltmasi olmadigindan, su kisaltmalara rastlamak mumkundur.: M, NM, nm, ve nmi.Bir deniz mil´inin uzunlugu metrik hesaba gore tam: 1.852,2 metredir.",
+                "Web": "http://en.wikipedia.org/wiki/Decimetre"
+            },
+            {
+                "Name": "Deniz_Mili",
+                "Coefficient": 0.000539956803455724,
+                "Abbreviation": "",
+                "Web": "http://tr.wikipedia.org/wiki/Deniz_mili"
+            },
+            {
+                "Name": "Elle",
+                "Coefficient": 1.49947518368571,
+                "Abbreviation": ""
+            },
+            {
+                "Name": "Endaze",
+                "Coefficient": 1.53846153846154,
+                "Abbreviation": "",
+                "Web": "http://tr.wikipedia.org/wiki/Endaze"
+            },
+            {
+                "Name": "EskiMil",
+                "Coefficient": 0.000527704485488127,
+                "Abbreviation": ""
+            },
+            {
+                "Name": "Fathom",
+                "Coefficient": 0.546806649168854,
+                "Abbreviation": "ftm",
+                "Web": "http://en.wikipedia.org/wiki/Fathom"
+            },
+            {
+                "Name": "Feet(Foot)",
+                "Coefficient": 3.28083989501312,
+                "Abbreviation": "ft",
+                "Web": "http://en.wikipedia.org/wiki/Feet_(unit_of_length)"
+            },
+            {
+                "Name": "Femtometre(Fermi)",
+                "Coefficient": 1000000000000000,
+                "Abbreviation": "fm",
+                "Web": "http://en.wikipedia.org/wiki/Femtometres"
+            },
+            {
+                "Name": "Fersah",
+                "Coefficient": 0.000175901495162709,
+                "Abbreviation": "",
+                "Web": "http://tr.wikipedia.org/wiki/Fersah"
+            },
+            {
+                "Name": "Furlong",
+                "Coefficient": 0.00497096953789867,
+                "Abbreviation": "",
+                "Web": "http://en.wikipedia.org/wiki/Furlong"
+            },
+            {
+                "Name": "Gigametre",
+                "Coefficient": 1e-9,
+                "Abbreviation": "Gm",
+                "Web": "http://en.wikipedia.org/wiki/Gigametre"
+            },
+            {
+                "Name": "Gomina",
+                "Coefficient": 0.00539956803455724,
+                "Abbreviation": "",
+                "Web": "http://tr.wikipedia.org/wiki/Gomina"
+            },
+            {
+                "Name": "Hat",
+                "Coefficient": 380.228136882129,
+                "Abbreviation": ""
+            },
+            {
+                "Name": "Hektometre",
+                "Coefficient": 0.01,
+                "Abbreviation": "hm",
+                "Web": "http://en.wikipedia.org/wiki/Hectometre"
+            },
+            {
+                "Name": "Hubble_uzunlugu",
+                "Coefficient": 8.3e-27,
+                "Abbreviation": "",
+                "Web": "http://tr.wikipedia.org/wiki/Uzunluk_birimleri"
+            },
+            {
+                "Name": "Inc(Inch)",
+                "Coefficient": 39.3700787401575,
+                "Abbreviation": "in",
+                "Web": "http://en.wikipedia.org/wiki/Inch"
+            },
+            {
+                "Name": "Isik_Yili",
+                "Coefficient": 1.057000834025e-16,
+                "Abbreviation": "ly",
+                "Web": "http://en.wikipedia.org/wiki/Light-year"
+            },
+            {
+                "Name": "Kadem",
+                "Coefficient": 2.63942777205902,
+                "Abbreviation": ""
+            },
+            {
+                "Name": "Kerrab",
+                "Coefficient": 23.5294117647059,
+                "Abbreviation": ""
+            },
+            {
+                "Name": "Kilometre",
+                "Coefficient": 0.001,
+                "Abbreviation": "km",
+                "Web": "http://en.wikipedia.org/wiki/Kilometre"
+            },
+            {
+                "Name": "Kirah",
+                "Coefficient": 23.5294117647059,
+                "Abbreviation": "_",
+                "Web": "http://tr.wikipedia.org/wiki/Osmanl%C4%B1_d%C3%B6neminde_%C3%B6l%C3%A7%C3%BC_birimleri"
+            },
+            {
+                "Name": "Kulac",
+                "Coefficient": 0.546806649168854,
+                "Abbreviation": ""
+            },
+            {
+                "Name": "Linye",
+                "Coefficient": 314.96062992126,
+                "Abbreviation": ""
+            },
+            {
+                "Name": "Megametre",
+                "Coefficient": 0.000001,
+                "Abbreviation": "Mm",
+                "Web": "http://en.wikipedia.org/wiki/Megametre"
+            },
+            {
+                "Name": "Menzil",
+                "Coefficient": 0.0000439753737906772,
+                "Abbreviation": "",
+                "Web": "http://tr.wikipedia.org/wiki/Eski_T%C3%BCrk_%C3%B6l%C3%A7%C3%BC_birimleri"
+            },
+            {
+                "Name": "Merhale",
+                "Coefficient": 0.0000219876868953386,
+                "Abbreviation": "",
+                "Web": "http://tr.wikipedia.org/wiki/Eski_T%C3%BCrk_%C3%B6l%C3%A7%C3%BC_birimleri"
+            },
+            {
+                "Name": "Metre",
+                "Coefficient": 1,
+                "Abbreviation": "m",
+                "Web": "http://en.wikipedia.org/wiki/Metre"
+            },
+            {
+                "Name": "Mikron_(Mikrometre)",
+                "Coefficient": 1000000,
+                "Abbreviation": "µm",
+                "Web": "http://en.wikipedia.org/wiki/Micrometre"
+            },
+            {
+                "Name": "Mil_(Kara_Mili)",
+                "Coefficient": 0.000621371192237334,
+                "Abbreviation": "mi",
+                "Info": "Mil bir mesafe olcum birimidir. Isim olarak ingilizce kokenlidir, tarihte degisik yore ve ilgi alanlarinda farkli uzunlukta kullanilmis ve halen kullanilmaktadir. Standart kisaltmasi; (mi)´dir.",
+                "Web": "http://en.wikipedia.org/wiki/Mile"
+            },
+            {
+                "Name": "Milimetre",
+                "Coefficient": 1000,
+                "Abbreviation": "mm",
+                "Web": "http://en.wikipedia.org/wiki/Milimetre"
+            },
+            {
+                "Name": "Nanometre",
+                "Coefficient": 1000000000,
+                "Abbreviation": "nm",
+                "Web": "http://en.wikipedia.org/wiki/Nanometre"
+            },
+            {
+                "Name": "Nokta",
+                "Coefficient": 4545.45454545454,
+                "Abbreviation": ""
+            },
+            {
+                "Name": "Parmak",
+                "Coefficient": 31.675641431739,
+                "Abbreviation": "_"
+            },
+            {
+                "Name": "Parsek",
+                "Coefficient": 3.24077928964e-17,
+                "Abbreviation": "pc",
+                "Web": "http://en.wikipedia.org/wiki/Parsec"
+            },
+            {
+                "Name": "Pika",
+                "Coefficient": 238.095238095238,
+                "Abbreviation": "pc",
+                "Web": "http://tr.wikipedia.org/wiki/Uzunluk_birimleri"
+            },
+            {
+                "Name": "Pikometre",
+                "Coefficient": 1000000000000,
+                "Abbreviation": "pm",
+                "Web": "http://en.wikipedia.org/wiki/Picometre"
+            },
+            {
+                "Name": "Punto",
+                "Coefficient": 2857.14285714286,
+                "Abbreviation": ""
+            },
+            {
+                "Name": "Pus",
+                "Coefficient": 39.3700787401575,
+                "Abbreviation": ""
+            },
+            {
+                "Name": "Rubu",
+                "Coefficient": 11.7647058823529,
+                "Abbreviation": "",
+                "Web": "http://tr.wikipedia.org/wiki/Osmanl%C4%B1_d%C3%B6neminde_%C3%B6l%C3%A7%C3%BC_birimleri"
+            },
+            {
+                "Name": "Santimetre",
+                "Coefficient": 100,
+                "Abbreviation": "cm",
+                "Web": "http://en.wikipedia.org/wiki/Centimeter"
+            },
+            {
+                "Name": "Thou",
+                "Coefficient": 39370.0787401575,
+                "Abbreviation": ""
+            },
+            {
+                "Name": "Urup",
+                "Coefficient": 11.7647058823529,
+                "Abbreviation": ""
+            },
+            {
+                "Name": "Yard_(Yarda)",
+                "Coefficient": 1.09361329833771,
+                "Abbreviation": "yd",
+                "Web": "http://en.wikipedia.org/wiki/Yard"
+            },
+            {
+                "Name": "Zirai",
+                "Coefficient": 1.31971388602951,
+                "Abbreviation": "",
+                "Web": "http://tr.wikipedia.org/wiki/Osmanl%C4%B1_d%C3%B6neminde_%C3%B6l%C3%A7%C3%BC_birimleri"
+            }
+        ]
+    },
+    {
+        "Katagori Adi": "Yogunluk",
+        "Birimler": [
+            {
+                "Name": "Gram/Desimetrekup",
+                "Coefficient": 1,
+                "Abbreviation": "gr/dm3"
+            },
+            {
+                "Name": "Gram/Metrekup",
+                "Coefficient": 1000,
+                "Abbreviation": "gr/m3"
+            },
+            {
+                "Name": "Gram/Mililitre",
+                "Coefficient": 0.001,
+                "Abbreviation": "gr/ml"
+            },
+            {
+                "Name": "Gram/milimetrekup",
+                "Coefficient": 0.000001,
+                "Abbreviation": "gr/mm3"
+            },
+            {
+                "Name": "Gram/Litre",
+                "Coefficient": 1,
+                "Abbreviation": "gr/l"
+            },
+            {
+                "Name": "Gram/Santimetrekup",
+                "Coefficient": 0.001,
+                "Abbreviation": "gr/cm3"
+            },
+            {
+                "Name": "Kilogram/Desimetrekup",
+                "Coefficient": 0.001,
+                "Abbreviation": "kg/dm3"
+            },
+            {
+                "Name": "Kilogram/Litre",
+                "Coefficient": 0.001,
+                "Abbreviation": "kg/l"
+            },
+            {
+                "Name": "Kilogram/Metrekup",
+                "Coefficient": 1,
+                "Abbreviation": "kg/m3"
+            },
+            {
+                "Name": "Kilogram/Mililitre",
+                "Coefficient": 0.000001,
+                "Abbreviation": "kg/ml"
+            },
+            {
+                "Name": "Kilogram/Milimetrekup",
+                "Coefficient": 1e-9,
+                "Abbreviation": "kg/mm3"
+            },
+            {
+                "Name": "Kilogram/Santimetrekup",
+                "Coefficient": 0.000001,
+                "Abbreviation": "kg/cm3"
+            },
+            {
+                "Name": "Mikrogram/desimetrekup",
+                "Coefficient": 1000000,
+                "Abbreviation": "µg/dm3"
+            },
+            {
+                "Name": "Mikrogram/litre",
+                "Coefficient": 1000000,
+                "Abbreviation": "µg/l"
+            },
+            {
+                "Name": "Mikrogram/metrekup",
+                "Coefficient": 1000000000,
+                "Abbreviation": "µg/m3"
+            },
+            {
+                "Name": "Mikrogram/mililitre",
+                "Coefficient": 1000,
+                "Abbreviation": "µg/ml"
+            },
+            {
+                "Name": "Mikrogram/milimetrekup",
+                "Coefficient": 1,
+                "Abbreviation": "µg/mm3"
+            },
+            {
+                "Name": "Mikrogram/santimetrekup",
+                "Coefficient": 1000,
+                "Abbreviation": "µg/cm3"
+            },
+            {
+                "Name": "Miligram/Santimetrekup",
+                "Coefficient": 1,
+                "Abbreviation": "mg/cm3"
+            },
+            {
+                "Name": "Miligram/Desimetrekup",
+                "Coefficient": 1000,
+                "Abbreviation": "mg/dm3"
+            },
+            {
+                "Name": "Miligram/Metrekup",
+                "Coefficient": 1000000,
+                "Abbreviation": "mg/m3"
+            },
+            {
+                "Name": "Miligram/milimetrekup",
+                "Coefficient": 0.001,
+                "Abbreviation": "mg/mm3"
+            },
+            {
+                "Name": "Miligram/Litre",
+                "Coefficient": 1000,
+                "Abbreviation": "mg/l"
+            },
+            {
+                "Name": "Miligram/Mililitre",
+                "Coefficient": 1,
+                "Abbreviation": "mg/ml"
+            },
+            {
+                "Name": "Nanogram/litre",
+                "Coefficient": 1000000000,
+                "Abbreviation": "ng/l"
+            },
+            {
+                "Name": "Nanogram/mililitre",
+                "Coefficient": 1000000,
+                "Abbreviation": "ng/ml"
+            },
+            {
+                "Name": "Nanogram/milimetrekup",
+                "Coefficient": 1000,
+                "Abbreviation": "ng/mm3"
+            },
+            {
+                "Name": "Nanogram/santimetrekup",
+                "Coefficient": 1000000,
+                "Abbreviation": "ng/cm3"
+            },
+            {
+                "Name": "Ons/Feetkup",
+                "Coefficient": 0.998847330180971,
+                "Abbreviation": "ounce/ft3"
+            },
+            {
+                "Name": "Ons/inckup",
+                "Coefficient": 0.00057803668683244,
+                "Abbreviation": "once/in3"
+            },
+            {
+                "Name": "Ons/Yardkup",
+                "Coefficient": 26.9687162891046,
+                "Abbreviation": "ounce/yd3"
+            },
+            {
+                "Name": "Ons/Galon",
+                "Coefficient": 0.133526466013776,
+                "Abbreviation": "ounce/gal"
+            },
+            {
+                "Name": "Pikogram/desimetrekup",
+                "Coefficient": 1000000000000,
+                "Abbreviation": "pg/dm3"
+            },
+            {
+                "Name": "Pikogram/litre",
+                "Coefficient": 1000000000000,
+                "Abbreviation": "pg/l"
+            },
+            {
+                "Name": "Pikogram/mikrolitre",
+                "Coefficient": 1000000000000,
+                "Abbreviation": "pg/µl"
+            },
+            {
+                "Name": "Pikogram/milimetrekup",
+                "Coefficient": 1000000,
+                "Abbreviation": "pg/mm3"
+            },
+            {
+                "Name": "Pikogram/mililitre",
+                "Coefficient": 1000000000,
+                "Abbreviation": "pg/ml"
+            },
+            {
+                "Name": "Pikogram/santimetrekup",
+                "Coefficient": 1000000000,
+                "Abbreviation": "pg/cm3"
+            },
+            {
+                "Name": "Pound/Feetkup",
+                "Coefficient": 0.0624279620335609,
+                "Abbreviation": "lb/ft3"
+            },
+            {
+                "Name": "Pound/Galon",
+                "Coefficient": 0.00834540426515252,
+                "Abbreviation": "lb/gal"
+            },
+            {
+                "Name": "Pound/inckup",
+                "Coefficient": 0.0000361272916218462,
+                "Abbreviation": "lb/in3"
+            },
+            {
+                "Name": "Pound/Yardkup",
+                "Coefficient": 1.68555494268,
+                "Abbreviation": "lb/yd3"
+            },
+            {
+                "Name": "Su",
+                "Coefficient": 0.001,
+                "Abbreviation": "H2O"
+            },
+            {
+                "Name": "Ton/Santimetrekup",
+                "Coefficient": 1e-9,
+                "Abbreviation": "ton/cm3"
+            },
+            {
+                "Name": "Ton/Desimetrekup",
+                "Coefficient": 0.000001,
+                "Abbreviation": "ton/dm3"
+            },
+            {
+                "Name": "Ton/Metrekup",
+                "Coefficient": 0.001,
+                "Abbreviation": "ton/m3"
+            },
+            {
+                "Name": "Ton/Litre",
+                "Coefficient": 0.000001,
+                "Abbreviation": "ton/l"
+            },
+            {
+                "Name": "Ton/Mililitre",
+                "Coefficient": 1e-9,
+                "Abbreviation": "ton/ml"
+            }
+        ]
+    },
+    {
+        "Katagori Adi": "Zaman",
+        "Birimler": [
+            {
+                "Name": "Asir(Yuzyil)",
+                "Coefficient": 0.00000114077116130504,
+                "Abbreviation": "",
+                "Info": "Milâdî tarih ya da herhangi bir takvim icin kabul edilen baslangictan bu yana sayilan yuzer yillik zaman araliklarindan her biri.",
+                "Web": "http://tr.wikipedia.org/wiki/As%C4%B1r"
+            },
+            {
+                "Name": "AtomikZamanBirimi",
+                "Coefficient": 148828943849161000000,
+                "Abbreviation": "au",
+                "Info": "Atomlarin icsel enerji durumlari arasindaki kuantum degisimini gerceklestirmekte kullanilan elektromanyetik radyasyonun karakteristik frekansindan yararlanir.",
+                "Web": "http://tr.wikipedia.org/wiki/Zaman"
+            },
+            {
+                "Name": "Beat",
+                "Coefficient": 41.6666666666667,
+                "Abbreviation": "",
+                "Info": "Beat, Swatch Internet Zaman'inda kullanilan birimdir.Swatch Internet Zaman olcusu,1998 yilinda Isvicre'nin Swatch firmasi tarafindan icat edilmistir.Internet Zamani dunyanin heryerinde aynidir ve yazlari da degismez.Internet Zamanini ,telefon ve internet gorusmelerini planlamada kullanilabilir.Ayrica,bazi Linux isletim sistemleri masaustu saati olarak Internet Zaman'ini tercih ediyor.",
+                "Web": "http://en.wikipedia.org/wiki/Swatch_Internet_Time"
+            },
+            {
+                "Name": "Binyil",
+                "Coefficient": 1.1407961479421e-7,
+                "Abbreviation": "",
+                "Info": "Bin yili icine alan zaman dilimi, milenyum.Milenyum Latince mille; bin, ve annum, yil kelimelerinin birlesmesinden meydana gelir.Terim daha cok takvim milenyumlari icin kullanilir.",
+                "Web": "http://tr.wikipedia.org/wiki/Milenyum"
+            },
+            {
+                "Name": "Blink",
+                "Coefficient": 4166.66666666667,
+                "Abbreviation": "",
+                "Info": "Bir goz kirpma sirasinda gecen zaman.Yaklasik 0.864 saniyedir"
+            },
+            {
+                "Name": "ceyrekSaat",
+                "Coefficient": 4,
+                "Abbreviation": "",
+                "Info": "Bir saatin dortte biridir.15 dakika ya esittir."
+            },
+            {
+                "Name": "Dakika",
+                "Coefficient": 60,
+                "Abbreviation": "min",
+                "Info": "Dakika, 1 saatin 1/60'ina ve 60 saniyeye esit olan zaman birimidir.Ayni zamanda 1 derecenin 1/60'ini da simgeler. Kisaca dk'tir. Acisal olarak ' isareti ile gosterilir. Bir zaman dilimidir."
+            },
+            {
+                "Name": "Fortnight",
+                "Coefficient": 0.00297619047619048,
+                "Abbreviation": "",
+                "Info": "Bir fortnight 14 gun(2 hafta) e esittir.Fortnight kelimesi Eski Ingilizce'den turemistir: fēowertyne niht, anlami fourteen nights.Ingiltere,Irlanda ve Avustralya,Hindistan,Pakistan gibi Ingiliz Milletler Toplulugu ulkelerinde sikca kullanilir.",
+                "Web": "http://en.wikipedia.org/wiki/Fortnight"
+            },
+            {
+                "Name": "Francaide",
+                "Coefficient": 0.000028519279032626,
+                "Abbreviation": ""
+            },
+            {
+                "Name": "Glass",
+                "Coefficient": 2,
+                "Abbreviation": "",
+                "Info": "Glass 30 dakikaya denk gelen bir zaman birimidr.Diger ismi Bell'dir.Gemilerde zaman olcumlerinde daha pratik oldugu icin 4 saatlik bir sure periyotunda bir saat kullanilir.Bu saat 8 esit Bell e bolunmustur ve bir Bell 1/2 saat ya da 30 dakikaya esittir.Her 30 dakikada bir,geminin zilleri(canlari) 4 saatlik surenin baslangicindan itabaren geride kalan bell sayisini soyler.",
+                "Web": "http://www.unc.edu/~rowlett/units/dictB.html#bell"
+            },
+            {
+                "Name": "Gun",
+                "Coefficient": 0.0416666666666667,
+                "Abbreviation": "",
+                "Info": "Gun, gunluk kullanimda yirmi dort saate karsilik gelen bir zaman birimidir. Bu sure yaklasik olarak Gunes'in belli bir noktadaki meridyenden iki gecisi arasindaki zamanin yil icerisindeki ortalamasidir. Dunyanin uzak yildizlara gore kendi ekseni etrafinda bir tam tur yapmasi icin gereken sureye yildiz gunu denir, gozlemevlerinde kullanilan bu zaman birimi 23 saat 56 dakikadir.",
+                "Web": "http://tr.wikipedia.org/wiki/G%C3%BCn"
+            },
+            {
+                "Name": "Hafta",
+                "Coefficient": 0.00595238095238095,
+                "Abbreviation": "",
+                "Info": "Hafta, 7 gunden olusan zaman birimi. Farsca yedi manasina gelen haft/heft kelimesinden turetilmistir.",
+                "Web": "http://en.wikipedia.org/wiki/Week"
+            },
+            {
+                "Name": "KiloSaniye",
+                "Coefficient": 3.6,
+                "Abbreviation": "ks",
+                "Info": "Bir saniyenin bin katina denk gelen zaman birimi.",
+                "Web": "http://tr.wikipedia.org/wiki/Saniye_(zaman_birimi)"
+            },
+            {
+                "Name": "Kozmikyil(Galaktik yil)",
+                "Coefficient": 5.07019816108983e-13,
+                "Abbreviation": "",
+                "Info": "Galaktik yil, Gunes sisteminin Samanyolu cevresindeki yorungesinde bir tam tur donmesi icin gerekli suredir. Ayrica Kozmik yil olarak da bilinir. [1] Tahminen 225 milyon ile 250 milyon dunya yili arasinda degismektedir",
+                "Web": "http://en.wikipedia.org/wiki/Galactic_year"
+            },
+            {
+                "Name": "Lustrum",
+                "Coefficient": 0.0000228185469149325,
+                "Abbreviation": "",
+                "Info": "Antik Roma da kullanilmis 5 yil a esit zaman birimi.",
+                "Web": "http://en.wikipedia.org/wiki/Lustrum"
+            },
+            {
+                "Name": "Megasaniye",
+                "Coefficient": 0.0036,
+                "Abbreviation": "Ms",
+                "Web": "http://en.wikipedia.org/wiki/Megasecond"
+            },
+            {
+                "Name": "Milenyum",
+                "Coefficient": 1.14077116130504e-7,
+                "Abbreviation": "",
+                "Info": "Bin yili icine alan zaman dilimi, milenyum.Milenyum Latince mille; bin, ve annum, yil kelimelerinin birlesmesinden meydana gelir.Terim daha cok takvim milenyumlari icin kullanilir.",
+                "Web": "http://tr.wikipedia.org/wiki/Milenyum"
+            },
+            {
+                "Name": "Milisaniye",
+                "Coefficient": 3600000,
+                "Abbreviation": "ms",
+                "Web": "http://en.wikipedia.org/wiki/Milisecond"
+            },
+            {
+                "Name": "Mikrosaniye",
+                "Coefficient": 3600000000,
+                "Abbreviation": "μs",
+                "Web": "http://en.wikipedia.org/wiki/Microsecond"
+            },
+            {
+                "Name": "Nanosaniye",
+                "Coefficient": 3600000000000,
+                "Abbreviation": "ns",
+                "Web": "http://en.wikipedia.org/wiki/Nanosecond"
+            },
+            {
+                "Name": "Onyil(10yil)",
+                "Coefficient": 0.0000114092734574662,
+                "Abbreviation": "",
+                "Web": "http://tr.wikipedia.org/wiki/Birim_zaman"
+            },
+            {
+                "Name": "Pikosaniye",
+                "Coefficient": 3600000000000000,
+                "Abbreviation": "ps",
+                "Web": "http://en.wikipedia.org/wiki/Picosecond"
+            },
+            {
+                "Name": "Saat",
+                "Coefficient": 1,
+                "Abbreviation": "h",
+                "Web": "http://en.wikipedia.org/wiki/Hour"
+            },
+            {
+                "Name": "Salise",
+                "Coefficient": 216000,
+                "Abbreviation": "",
+                "Info": "Salise, saniyenin altmista birine esit olan zaman dilimidir. Saniyenin yuzde biri olarak bilinmesinin sebebi ise atletizmde saniyenin yuzde biri olarak bir birim santisaniye olusturulmasi ve bunun yanlis isimlendirilmesidir. Salisenin altmista birine ise \"rabia\" denir.",
+                "Web": "http://tr.wikipedia.org/wiki/Salise"
+            },
+            {
+                "Name": "Saniye",
+                "Coefficient": 3600,
+                "Abbreviation": "s",
+                "Info": "Uluslararasi Birimler Sistemine gore saniye, en dusuk enerji seviyesindeki (ground state) Sezyum-133 atomunun (133 Cs atom cekirdegi) iki hyperfine seviye arasindaki gecis radyasyonunun 9.192.631.770 perioduna karsilik gelen suredir, (13. CGPM, 1967). 1997 deki CIPM toplantisinda bu tanimin duragan ve 0 K termodinamik sicaklikda Sezyum atomu icin gecerli oldugu onaylandi.1 dakikanin 60 da birine denktir.",
+                "Web": "http://en.wikipedia.org/wiki/Second"
+            },
+            {
+                "Name": "Shake",
+                "Coefficient": 360000000000,
+                "Abbreviation": "",
+                "Info": "1 shake , 10 nanosaniyeye veya 10^-8 saniyeye esittir.Nukleer Fizik'te bir nukleer patlamanin icinde gerceklesen cesitli olaylarin zamanlamasinda kullanilir. ",
+                "Web": "http://en.wikipedia.org/wiki/Shake_(unit)"
+            },
+            {
+                "Name": "SittinSene",
+                "Coefficient": 0.00000190128526884174,
+                "Abbreviation": "",
+                "Info": "Sittin; Arapca kokenli bir kelimedir. Turkcesi `60` anlamina gelmektedir. Mecazi olarak da bir insan omru anlaminda kullanilir. Yani sittin sene demek 60 sene anlamina gelmektedir.",
+                "Web": ""
+            },
+            {
+                "Name": "uctebiryil(1/3yil)",
+                "Coefficient": 0.000341530054644809,
+                "Abbreviation": "",
+                "Web": ""
+            },
+            {
+                "Name": "Watch",
+                "Coefficient": 0.25,
+                "Abbreviation": ""
+            },
+            {
+                "Name": "Yil",
+                "Coefficient": 0.000114077116130504,
+                "Abbreviation": "",
+                "Info": "Yil veya sene; Dunya'nin Gunes etrafindaki yorungesinde tam bir tur yapmasina karsilik gelen zaman. 365 gun, bes saat ve 49 dakikaya denk gelir.[kaynak belirtilmeli] Bir yilda 12 ay veya 52 hafta vardir.Miladî takvime gore Ocak ayinin birinde baslayip, Aralik ayinin otuz birinde sona eren on iki aylik donemdir.",
+                "Web": "http://en.wikipedia.org/wiki/Year"
+            }
+        ]
+    }
+]

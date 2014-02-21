@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:orientation="vertical" >
+    
+    <EditText 
+        android:id="@+id/MaxDecimalEditText"
+        android:layout_width="150dp"
+        android:layout_height="wrap_content"
+        android:inputType="number"
+        />
+        <android.inputmethodservice.KeyboardView
+            android:id="@+id/keyboardview2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"   
+            android:layout_marginLeft="20sp"
+            android:focusable="true"
+            android:layout_below="@id/MaxDecimalEditText"
+            android:focusableInTouchMode="true"
+            android:visibility="gone" 
+            />
+    
+
+</RelativeLayout>

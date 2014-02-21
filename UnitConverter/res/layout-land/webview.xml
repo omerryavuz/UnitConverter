@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:id="@+id/Linera"
+    android:orientation="vertical" >
+    <RelativeLayout 
+        android:id="@+id/ProgressLine"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        >
+        <ProgressBar 
+            android:id="@+id/ProgressBar"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="300sp"
+        />
+        <TextView 
+            android:id="@+id/ProgressTExt"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:text="Yükleniyor..."
+            android:textSize="15sp"
+            android:layout_marginLeft="5sp"
+            android:layout_toRightOf="@id/ProgressBar"
+            android:textStyle="bold"
+            />
+    </RelativeLayout>
+
+    <WebView 
+        android:id="@+id/WebView"
+        android:layout_width="fill_parent"
+        android:layout_height="580sp"
+        android:scrollbars="vertical"
+        android:scrollbarAlwaysDrawVerticalTrack="true"
+        />
+        
+    <Button
+        android:id="@+id/ProgressButton" 
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="GERİ DÖN"
+        android:layout_marginBottom="0sp"
+        />
+
+</LinearLayout>
